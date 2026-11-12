@@ -1,1 +1,190 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Benchmark hotelero · Mercado</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --fondo:#F7F8F6; --papel:#FFFFFF; --tinta:#1A1F24; --suave:#5E6870; --linea:#DDE2DF;
+  --verde-hotel:#1F4D4A; --laton:#A8844E; --sube:#23744F; --baja:#B13F35;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --fondo:#12181A; --papel:#1A2225; --tinta:#E8ECEA; --suave:#9AA6A4; --linea:#2C3739;
+    --verde-hotel:#7FB8B2; --laton:#D1AE76; --sube:#5CC291; --baja:#E5786D;
+    color-scheme:dark;
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fondo);color:var(--tinta);
+  font:15px/1.5 "Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif}
+.envoltura{max-width:1100px;margin:0 auto;padding:28px 20px 60px}
+header{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 24px;
+  border-bottom:2px solid var(--verde-hotel);padding-bottom:14px}
+h1{font-family:"Newsreader",Georgia,serif;font-weight:600;font-size:2.1rem;line-height:1.1;margin:0;color:var(--verde-hotel)}
+.actualizado{color:var(--suave);font-size:.9rem}
 
+/* Cinta de cotizaciones: el elemento distintivo */
+.cinta{display:flex;gap:0;overflow-x:auto;margin:18px 0 26px;background:var(--papel);
+  border:1px solid var(--linea);border-left:4px solid var(--laton)}
+.cinta div{flex:0 0 auto;padding:10px 18px;border-right:1px solid var(--linea);white-space:nowrap}
+.cinta b{display:block;font-weight:600;font-size:.85rem}
+.cinta span{font-variant-numeric:tabular-nums}
+
+nav{display:flex;gap:4px;margin-bottom:16px;flex-wrap:wrap}
+nav button{font:inherit;font-weight:500;color:var(--suave);background:none;border:1px solid transparent;
+  padding:7px 14px;cursor:pointer;border-radius:4px}
+nav button[aria-selected="true"]{color:var(--verde-hotel);border-color:var(--linea);background:var(--papel)}
+nav button:focus-visible{outline:2px solid var(--laton);outline-offset:2px}
+
+h2{font-family:"Newsreader",Georgia,serif;font-weight:500;font-size:1.4rem;margin:0 0 4px}
+.nota-seccion{color:var(--suave);margin:0 0 14px;max-width:70ch}
+.tabla{overflow-x:auto;background:var(--papel);border:1px solid var(--linea)}
+table{border-collapse:collapse;width:100%;min-width:760px}
+th,td{padding:10px 12px;text-align:right;border-bottom:1px solid var(--linea)}
+th{font-weight:500;color:var(--suave);font-size:.85rem}
+th:first-child,td:first-child{text-align:left}
+td{font-variant-numeric:tabular-nums}
+tr:last-child td{border-bottom:0}
+.sube{color:var(--sube)} .baja{color:var(--baja)}
+.relevancia{display:inline-block;padding:1px 8px;border-radius:3px;font-size:.8rem;font-weight:500}
+.r-alta{background:var(--laton);color:#fff}
+.r-media{border:1px solid var(--laton);color:var(--laton)}
+.r-normal{color:var(--suave)}
+.error{color:var(--baja);font-size:.85rem}
+
+.notas{display:grid;gap:18px;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+.emisora{background:var(--papel);border:1px solid var(--linea);padding:14px 16px}
+.emisora h3{margin:0 0 8px;font-size:1rem;color:var(--verde-hotel)}
+.emisora ul{list-style:none;margin:0;padding:0}
+.emisora li{padding:8px 0;border-top:1px solid var(--linea)}
+.emisora a{color:var(--tinta);text-decoration:none;font-weight:500}
+.emisora a:hover{text-decoration:underline}
+.emisora small{display:block;color:var(--suave)}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="envoltura">
+  <header>
+    <h1>Benchmark hotelero</h1>
+    <div class="actualizado" id="actualizado">Cargando datos…</div>
+  </header>
+
+  <div class="cinta" id="cinta" aria-label="Cotizaciones del día"></div>
+
+  <nav role="tablist">
+    <button role="tab" aria-selected="true" data-seccion="mercado">Mercado nacional</button>
+    <button role="tab" aria-selected="false" data-seccion="internacionales">Internacionales</button>
+    <button role="tab" aria-selected="false" data-seccion="notas">Notas por emisora</button>
+  </nav>
+
+  <section id="mercado">
+    <h2>Mercado nacional</h2>
+    <p class="nota-seccion">Precios al cierre en pesos. La relevancia compara el volumen del día contra su promedio de 30 días.</p>
+    <div class="tabla"><table id="tabla-mercado"></table></div>
+  </section>
+
+  <section id="internacionales" hidden>
+    <h2>Internacionales</h2>
+    <p class="nota-seccion">Precios al cierre en dólares y cifras del último trimestre reportado.</p>
+    <div class="tabla"><table id="tabla-internacionales"></table></div>
+  </section>
+
+  <section id="notas" hidden>
+    <h2>Notas por emisora</h2>
+    <p class="nota-seccion">Noticias recientes, ordenadas por la relevancia de cada emisora en el mercado.</p>
+    <div class="notas" id="lista-notas"></div>
+  </section>
+</div>
+
+<script>
+const fmt = (n, dec = 2) => n == null ? "–" : n.toLocaleString("es-MX", {minimumFractionDigits: dec, maximumFractionDigits: dec});
+const grande = n => {
+  if (n == null) return "–";
+  const a = Math.abs(n);
+  if (a >= 1e12) return fmt(n / 1e12, 1) + " billones";
+  if (a >= 1e9) return fmt(n / 1e9, 1) + " mil mill.";
+  if (a >= 1e6) return fmt(n / 1e6, 1) + " mill.";
+  return fmt(n, 0);
+};
+const variacion = v => v == null ? "–" : `<span class="${v >= 0 ? "sube" : "baja"}">${v >= 0 ? "+" : ""}${fmt(v)}%</span>`;
+const relevancia = r => {
+  if (r == null) return '<span class="relevancia r-normal">–</span>';
+  if (r >= 1.5) return '<span class="relevancia r-alta">Alta</span>';
+  if (r >= 1) return '<span class="relevancia r-media">Media</span>';
+  return '<span class="relevancia r-normal">Normal</span>';
+};
+const nombre = t => t.replace(".MX", "");
+
+function tabla(id, emisoras) {
+  const filas = emisoras.map(e => e.error
+    ? `<tr><td>${nombre(e.ticker)}</td><td colspan="8" class="error">Sin datos hoy: ${e.error}</td></tr>`
+    : `<tr>
+        <td><b>${nombre(e.ticker)}</b></td>
+        <td>${fmt(e.precio)}</td>
+        <td>${variacion(e.variacion_pct)}</td>
+        <td>${grande(e.volumen)}</td>
+        <td>${relevancia(e.volumen_relativo_30d)}</td>
+        <td>${grande(e.cap_mercado)}</td>
+        <td>${grande(e.trimestre?.ingresos)}</td>
+        <td>${grande(e.trimestre?.ebitda)}</td>
+        <td>${e.trimestre?.periodo ?? "–"}</td>
+      </tr>`).join("");
+  document.getElementById(id).innerHTML = `
+    <thead><tr><th>Emisora</th><th>Precio</th><th>Variación</th><th>Volumen</th><th>Relevancia</th>
+    <th>Cap. de mercado</th><th>Ingresos trim.</th><th>EBITDA trim.</th><th>Trimestre</th></tr></thead>
+    <tbody>${filas}</tbody>`;
+}
+
+function fechaNota(f) {
+  if (!f) return "";
+  const d = typeof f === "number" ? new Date(f * 1000) : new Date(f);
+  return isNaN(d) ? "" : d.toLocaleDateString("es-MX", {day: "numeric", month: "short"});
+}
+
+async function cargar() {
+  try {
+    const [nac, intl, not] = await Promise.all(
+      ["nacionales", "internacionales", "noticias"].map(n => fetch(`data/${n}.json?v=${Date.now()}`).then(r => r.json()))
+    );
+    const todas = [...nac.emisoras, ...intl.emisoras];
+
+    document.getElementById("actualizado").textContent =
+      "Actualizado el " + new Date(nac.actualizado).toLocaleString("es-MX", {dateStyle: "long", timeStyle: "short"});
+
+    document.getElementById("cinta").innerHTML = todas.filter(e => !e.error).map(e =>
+      `<div><b>${nombre(e.ticker)}</b><span>${fmt(e.precio)}</span> ${variacion(e.variacion_pct)}</div>`).join("");
+
+    tabla("tabla-mercado", nac.emisoras);
+    tabla("tabla-internacionales", intl.emisoras);
+
+    // Notas ordenadas por relevancia (capitalización de la emisora)
+    document.getElementById("lista-notas").innerHTML = todas.map(e => {
+      const notas = not.emisoras[e.ticker] || [];
+      const items = notas.length
+        ? notas.map(n => `<li><a href="${n.url || "#"}" target="_blank" rel="noopener">${n.titulo || "Sin título"}</a>
+            <small>${[n.fuente, fechaNota(n.fecha)].filter(Boolean).join(", ")}</small></li>`).join("")
+        : "<li><small>Sin notas recientes.</small></li>";
+      return `<article class="emisora"><h3>${nombre(e.ticker)} ${relevancia(e.volumen_relativo_30d)}</h3><ul>${items}</ul></article>`;
+    }).join("");
+  } catch (err) {
+    document.getElementById("actualizado").textContent =
+      "No se pudieron leer los datos. Revisa que exista la carpeta data/ con los tres archivos JSON.";
+  }
+}
+
+document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll("nav button").forEach(x => x.setAttribute("aria-selected", x === b));
+  document.querySelectorAll("section").forEach(s => s.hidden = s.id !== b.dataset.seccion);
+}));
+
+cargar();
+</script>
+</body>
+</html>
