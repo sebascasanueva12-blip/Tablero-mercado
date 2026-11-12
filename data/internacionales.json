@@ -1,0 +1,60 @@
+{
+  "actualizado": "2026-11-12T19:13:08.591776+00:00",
+  "emisoras": [
+    {
+      "ticker": "MAR",
+      "fecha": "2026-11-12",
+      "precio": 425.23,
+      "variacion_pct": -0.9204,
+      "volumen": 481173.0,
+      "volumen_relativo_30d": 0.3182,
+      "cap_mercado": 109498597565.3378,
+      "trimestre": {
+        "periodo": "2026-09-30",
+        "ingresos": 7005000000.0,
+        "ebitda": 1453000000.0,
+        "utilidad_neta": 794000000.0
+      }
+    },
+    {
+      "ticker": "HLT",
+      "fecha": "2026-11-12",
+      "precio": 373.0718,
+      "variacion_pct": -1.0183,
+      "volumen": 486954.0,
+      "volumen_relativo_30d": 0.2671,
+      "cap_mercado": 83010101976.8687,
+      "trimestre": {
+        "periodo": "2026-09-30",
+        "ingresos": 3325000000.0,
+        "ebitda": 958000000.0,
+        "utilidad_neta": 536000000.0
+      }
+    },
+    {
+      "ticker": "IHG",
+      "fecha": "2026-11-12",
+      "precio": 178.435,
+      "variacion_pct": -1.6399,
+      "volumen": 105753.0,
+      "volumen_relativo_30d": 0.4465,
+      "cap_mercado": 25970723376.845,
+      "trimestre": null
+    },
+    {
+      "ticker": "H",
+      "fecha": "2026-11-12",
+      "precio": 188.29,
+      "variacion_pct": -0.9938,
+      "volumen": 173931.0,
+      "volumen_relativo_30d": 0.2164,
+      "cap_mercado": 17584419042.5114,
+      "trimestre": {
+        "periodo": "2026-09-30",
+        "ingresos": 1743000000.0,
+        "ebitda": 225000000.0,
+        "utilidad_neta": 58000000.0
+      }
+    }
+  ]
+}
