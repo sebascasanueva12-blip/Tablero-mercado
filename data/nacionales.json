@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-12T19:13:08.591776+00:00",
+  "actualizado": "2026-11-12T23:15:16.426093+00:00",
   "emisoras": [
     {
       "ticker": "FINN13.MX",
       "fecha": "2026-11-12",
-      "precio": 4.79,
-      "variacion_pct": 1.6985,
-      "volumen": 43600.0,
-      "volumen_relativo_30d": 0.2742,
-      "cap_mercado": 3474233832.9016,
+      "precio": 4.84,
+      "variacion_pct": 2.7601,
+      "volumen": 68723.0,
+      "volumen_relativo_30d": 0.4299,
+      "cap_mercado": 3510499460.3935,
       "trimestre": {
         "periodo": "2026-09-30",
         "ingresos": 674333000.0,
@@ -19,11 +19,11 @@
     {
       "ticker": "HCITY.MX",
       "fecha": "2026-11-12",
-      "precio": 5.99,
-      "variacion_pct": -0.1667,
-      "volumen": 106833.0,
-      "volumen_relativo_30d": 0.5647,
-      "cap_mercado": 2469840205.0058,
+      "precio": 6.0,
+      "variacion_pct": 0.0,
+      "volumen": 122039.0,
+      "volumen_relativo_30d": 0.6433,
+      "cap_mercado": 2473963572.0,
       "trimestre": null
     },
     {
