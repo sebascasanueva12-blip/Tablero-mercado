@@ -1,0 +1,114 @@
+[
+  {
+    "ticker": "POSADASA.MX",
+    "precio": 27.0,
+    "min_52s": 27.0,
+    "max_52s": 30.0,
+    "mediana_52s": 28.1677,
+    "fecha": "2026-10-13"
+  },
+  {
+    "ticker": "HCITY.MX",
+    "precio": 6.0,
+    "min_52s": 5.35,
+    "max_52s": 6.71,
+    "mediana_52s": 6.06,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "FINN13.MX",
+    "precio": 4.76,
+    "min_52s": 4.3259,
+    "max_52s": 5.3146,
+    "mediana_52s": 4.7403,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "precio": 18.38,
+    "min_52s": 18.38,
+    "max_52s": 25.0,
+    "mediana_52s": 19.5,
+    "fecha": "2026-11-10"
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "precio": 5.0,
+    "min_52s": 3.6017,
+    "max_52s": 5.35,
+    "mediana_52s": 4.5484,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "precio": 7.57,
+    "min_52s": 6.7691,
+    "max_52s": 7.7833,
+    "mediana_52s": 7.3932,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "RLHA.MX",
+    "precio": 15.46,
+    "min_52s": 15.0,
+    "max_52s": 16.75,
+    "mediana_52s": 16.45,
+    "fecha": "2026-06-18"
+  },
+  {
+    "ticker": "MAR",
+    "precio": 424.9975,
+    "min_52s": 280.5539,
+    "max_52s": 429.18,
+    "mediana_52s": 351.9694,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "HLT",
+    "precio": 374.9075,
+    "min_52s": 263.8025,
+    "max_52s": 379.76,
+    "mediana_52s": 316.2545,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "H",
+    "precio": 188.38,
+    "min_52s": 139.0698,
+    "max_52s": 201.9193,
+    "mediana_52s": 165.4559,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "IHG",
+    "precio": 180.07,
+    "min_52s": 123.0646,
+    "max_52s": 181.41,
+    "mediana_52s": 149.6632,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "AC.PA",
+    "precio": 51.72,
+    "min_52s": 38.3661,
+    "max_52s": 52.44,
+    "mediana_52s": 45.6946,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "CHH",
+    "precio": 118.36,
+    "min_52s": 83.4562,
+    "max_52s": 121.4187,
+    "mediana_52s": 105.9196,
+    "fecha": "2026-11-13"
+  },
+  {
+    "ticker": "EURUSD=X",
+    "precio": 1.1033,
+    "min_52s": 1.1033,
+    "max_52s": 1.2018,
+    "mediana_52s": 1.1607,
+    "fecha": "2026-11-13"
+  }
+]

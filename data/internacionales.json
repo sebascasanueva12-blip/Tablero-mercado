@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-11-12T23:15:16.426093+00:00",
+  "actualizado": "2026-11-13T17:41:27.030192+00:00",
   "emisoras": [
     {
       "ticker": "MAR",
-      "fecha": "2026-11-12",
-      "precio": 424.66,
-      "variacion_pct": -1.0532,
-      "volumen": 1127726.0,
-      "volumen_relativo_30d": 0.7354,
-      "cap_mercado": 109351818173.0293,
+      "fecha": "2026-11-13",
+      "precio": 424.9975,
+      "variacion_pct": 0.0795,
+      "volumen": 442474.0,
+      "volumen_relativo_30d": 0.2907,
+      "cap_mercado": 109438724335.3347,
       "trimestre": {
         "periodo": "2026-09-30",
         "ingresos": 7005000000.0,
@@ -18,12 +18,12 @@
     },
     {
       "ticker": "HLT",
-      "fecha": "2026-11-12",
-      "precio": 372.73,
-      "variacion_pct": -1.109,
-      "volumen": 1117644.0,
-      "volumen_relativo_30d": 0.6061,
-      "cap_mercado": 82934050683.6559,
+      "fecha": "2026-11-13",
+      "precio": 374.9075,
+      "variacion_pct": 0.5842,
+      "volumen": 356826.0,
+      "volumen_relativo_30d": 0.1962,
+      "cap_mercado": 83418551743.7743,
       "trimestre": {
         "periodo": "2026-09-30",
         "ingresos": 3325000000.0,
@@ -33,27 +33,57 @@
     },
     {
       "ticker": "IHG",
-      "fecha": "2026-11-12",
-      "precio": 178.43,
-      "variacion_pct": -1.6427,
-      "volumen": 152461.0,
-      "volumen_relativo_30d": 0.6395,
-      "cap_mercado": 25969994929.9101,
+      "fecha": "2026-11-13",
+      "precio": 180.07,
+      "variacion_pct": 0.9191,
+      "volumen": 90050.0,
+      "volumen_relativo_30d": 0.3816,
+      "cap_mercado": 26182476720.6635,
       "trimestre": null
     },
     {
       "ticker": "H",
-      "fecha": "2026-11-12",
-      "precio": 187.21,
-      "variacion_pct": -1.5617,
-      "volumen": 511748.0,
-      "volumen_relativo_30d": 0.6279,
-      "cap_mercado": 17483559001.4886,
+      "fecha": "2026-11-13",
+      "precio": 188.38,
+      "variacion_pct": 0.625,
+      "volumen": 81154.0,
+      "volumen_relativo_30d": 0.1016,
+      "cap_mercado": 17592825233.4463,
       "trimestre": {
         "periodo": "2026-09-30",
         "ingresos": 1743000000.0,
         "ebitda": 225000000.0,
         "utilidad_neta": 58000000.0
+      }
+    },
+    {
+      "ticker": "AC.PA",
+      "fecha": "2026-11-13",
+      "precio": 51.72,
+      "variacion_pct": -0.6149,
+      "volumen": 708014.0,
+      "volumen_relativo_30d": 0.8388,
+      "cap_mercado": 11965647781.615,
+      "trimestre": {
+        "periodo": "2026-03-31",
+        "ingresos": null,
+        "ebitda": null,
+        "utilidad_neta": null
+      }
+    },
+    {
+      "ticker": "CHH",
+      "fecha": "2026-11-13",
+      "precio": 118.36,
+      "variacion_pct": 0.0676,
+      "volumen": 80903.0,
+      "volumen_relativo_30d": 0.1461,
+      "cap_mercado": 5268031531.7259,
+      "trimestre": {
+        "periodo": "2026-09-30",
+        "ingresos": 458328000.0,
+        "ebitda": 123399000.0,
+        "utilidad_neta": 57912000.0
       }
     }
   ]

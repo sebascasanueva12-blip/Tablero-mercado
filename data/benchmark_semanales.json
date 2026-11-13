@@ -1,0 +1,3712 @@
+[
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2025-11-10",
+    "cierre": 27.1793
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2025-11-17",
+    "cierre": 27.1793
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2025-11-24",
+    "cierre": 27.5252
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2025-12-01",
+    "cierre": 27.6735
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2025-12-08",
+    "cierre": 27.6735
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2025-12-15",
+    "cierre": 28.6618
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2025-12-22",
+    "cierre": 28.6618
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2025-12-29",
+    "cierre": 28.6618
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-01-05",
+    "cierre": 28.82
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-01-12",
+    "cierre": 27.377
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-01-19",
+    "cierre": 27.4758
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-01-26",
+    "cierre": 27.4758
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-02-02",
+    "cierre": 27.4758
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-02-09",
+    "cierre": 27.7723
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-02-16",
+    "cierre": 27.8316
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-02-23",
+    "cierre": 27.8316
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-03-02",
+    "cierre": 27.8316
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-03-09",
+    "cierre": 27.8316
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-03-16",
+    "cierre": 28.1677
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-03-23",
+    "cierre": 28.1677
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-03-30",
+    "cierre": 28.1677
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-04-06",
+    "cierre": 28.1677
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-04-13",
+    "cierre": 28.1677
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-04-20",
+    "cierre": 28.8101
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-04-27",
+    "cierre": 29.324
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-05-04",
+    "cierre": 29.5513
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-05-11",
+    "cierre": 29.6502
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-05-18",
+    "cierre": 30.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-05-25",
+    "cierre": 30.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-06-01",
+    "cierre": 30.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-06-08",
+    "cierre": 30.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-06-15",
+    "cierre": 29.3
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-06-22",
+    "cierre": 29.3
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-06-29",
+    "cierre": 29.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-07-06",
+    "cierre": 29.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-07-13",
+    "cierre": 28.6
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-07-20",
+    "cierre": 28.6
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-07-27",
+    "cierre": 28.2
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-08-03",
+    "cierre": 28.2
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-08-10",
+    "cierre": 28.2
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-08-17",
+    "cierre": 28.2
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-08-24",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-08-31",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-09-07",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-09-14",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-09-21",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-09-28",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-10-05",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-10-12",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-10-19",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-10-26",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-11-02",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-11-09",
+    "cierre": 27.0
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2025-11-10",
+    "cierre": 6.3
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2025-11-17",
+    "cierre": 6.3
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2025-11-24",
+    "cierre": 6.65
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2025-12-01",
+    "cierre": 6.39
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2025-12-08",
+    "cierre": 6.3
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2025-12-15",
+    "cierre": 6.1
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2025-12-22",
+    "cierre": 6.24
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2025-12-29",
+    "cierre": 6.11
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-01-05",
+    "cierre": 6.3
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-01-12",
+    "cierre": 6.5
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-01-19",
+    "cierre": 6.37
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-01-26",
+    "cierre": 6.32
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-02-02",
+    "cierre": 6.26
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-02-09",
+    "cierre": 5.96
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-02-16",
+    "cierre": 6.08
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-02-23",
+    "cierre": 6.43
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-03-02",
+    "cierre": 6.4
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-03-09",
+    "cierre": 6.3
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-03-16",
+    "cierre": 6.3
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-03-23",
+    "cierre": 6.07
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-03-30",
+    "cierre": 6.05
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-04-06",
+    "cierre": 6.0
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-04-13",
+    "cierre": 6.06
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-04-20",
+    "cierre": 6.01
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-04-27",
+    "cierre": 6.1
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-05-04",
+    "cierre": 6.1
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-05-11",
+    "cierre": 6.3
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-05-18",
+    "cierre": 6.18
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-05-25",
+    "cierre": 6.15
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-06-01",
+    "cierre": 5.96
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-06-08",
+    "cierre": 6.0
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-06-15",
+    "cierre": 6.01
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-06-22",
+    "cierre": 5.77
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-06-29",
+    "cierre": 5.71
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-07-06",
+    "cierre": 6.06
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-07-13",
+    "cierre": 5.68
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-07-20",
+    "cierre": 5.46
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-07-27",
+    "cierre": 5.7
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-08-03",
+    "cierre": 5.95
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-08-10",
+    "cierre": 6.0
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-08-17",
+    "cierre": 5.63
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-08-24",
+    "cierre": 5.7
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-08-31",
+    "cierre": 5.64
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-09-07",
+    "cierre": 5.5
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-09-14",
+    "cierre": 5.41
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-09-21",
+    "cierre": 5.4
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-09-28",
+    "cierre": 5.51
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-10-05",
+    "cierre": 5.55
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-10-12",
+    "cierre": 5.75
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-10-19",
+    "cierre": 6.0
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-10-26",
+    "cierre": 6.14
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-11-02",
+    "cierre": 5.95
+  },
+  {
+    "ticker": "HCITY.MX",
+    "semana": "2026-11-09",
+    "cierre": 6.0
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2025-11-10",
+    "cierre": 4.3719
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2025-11-17",
+    "cierre": 4.3719
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2025-11-24",
+    "cierre": 4.4009
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2025-12-01",
+    "cierre": 4.5687
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2025-12-08",
+    "cierre": 4.6154
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2025-12-15",
+    "cierre": 4.7086
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2025-12-22",
+    "cierre": 5.296
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2025-12-29",
+    "cierre": 5.3146
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-01-05",
+    "cierre": 5.3146
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-01-12",
+    "cierre": 5.2214
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-01-19",
+    "cierre": 5.1188
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-01-26",
+    "cierre": 5.0163
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-02-02",
+    "cierre": 4.8205
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-02-09",
+    "cierre": 4.7272
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-02-16",
+    "cierre": 4.8671
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-02-23",
+    "cierre": 4.8485
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-03-02",
+    "cierre": 4.8018
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-03-09",
+    "cierre": 4.7552
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-03-16",
+    "cierre": 4.8391
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-03-23",
+    "cierre": 4.8761
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-03-30",
+    "cierre": 4.9046
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-04-06",
+    "cierre": 4.8382
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-04-13",
+    "cierre": 4.8097
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-04-20",
+    "cierre": 4.8382
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-04-27",
+    "cierre": 4.933
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-05-04",
+    "cierre": 4.8287
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-05-11",
+    "cierre": 4.8666
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-05-18",
+    "cierre": 4.8183
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-05-25",
+    "cierre": 4.7025
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-06-01",
+    "cierre": 4.8087
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-06-08",
+    "cierre": 4.7797
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-06-15",
+    "cierre": 4.519
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-06-22",
+    "cierre": 4.4804
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-06-29",
+    "cierre": 4.4997
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-07-06",
+    "cierre": 4.5383
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-07-13",
+    "cierre": 4.6349
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-07-20",
+    "cierre": 4.6156
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-07-27",
+    "cierre": 4.5383
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-08-03",
+    "cierre": 4.6156
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-08-10",
+    "cierre": 4.7198
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-08-17",
+    "cierre": 4.769
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-08-24",
+    "cierre": 4.6412
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-08-31",
+    "cierre": 4.7002
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-09-07",
+    "cierre": 4.6903
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-09-14",
+    "cierre": 4.4248
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-09-21",
+    "cierre": 4.6608
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-09-28",
+    "cierre": 4.592
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-10-05",
+    "cierre": 4.6215
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-10-12",
+    "cierre": 4.6903
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-10-19",
+    "cierre": 4.6707
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-10-26",
+    "cierre": 4.6805
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-11-02",
+    "cierre": 4.8182
+  },
+  {
+    "ticker": "FINN13.MX",
+    "semana": "2026-11-09",
+    "cierre": 4.76
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2025-11-10",
+    "cierre": 24.4
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2025-11-17",
+    "cierre": 25.0
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2025-11-24",
+    "cierre": 25.0
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2025-12-01",
+    "cierre": 25.0
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2025-12-08",
+    "cierre": 25.0
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2025-12-15",
+    "cierre": 24.9
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2025-12-22",
+    "cierre": 24.9
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2025-12-29",
+    "cierre": 24.9
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-01-05",
+    "cierre": 24.9
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-01-12",
+    "cierre": 24.9
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-01-19",
+    "cierre": 24.9
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-01-26",
+    "cierre": 24.9
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-02-02",
+    "cierre": 24.16
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-02-09",
+    "cierre": 24.16
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-02-16",
+    "cierre": 23.8
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-02-23",
+    "cierre": 23.6
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-03-02",
+    "cierre": 24.75
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-03-09",
+    "cierre": 24.05
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-03-16",
+    "cierre": 24.05
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-03-23",
+    "cierre": 24.05
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-03-30",
+    "cierre": 24.05
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-04-06",
+    "cierre": 21.6
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-04-13",
+    "cierre": 21.6
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-04-20",
+    "cierre": 21.5
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-04-27",
+    "cierre": 20.85
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-05-04",
+    "cierre": 20.83
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-05-11",
+    "cierre": 20.79
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-05-18",
+    "cierre": 19.5
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-05-25",
+    "cierre": 19.5
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-06-01",
+    "cierre": 19.5
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-06-08",
+    "cierre": 19.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-06-15",
+    "cierre": 19.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-06-22",
+    "cierre": 19.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-06-29",
+    "cierre": 19.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-07-06",
+    "cierre": 19.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-07-13",
+    "cierre": 19.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-07-20",
+    "cierre": 19.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-07-27",
+    "cierre": 19.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-08-03",
+    "cierre": 19.2
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-08-10",
+    "cierre": 19.2
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-08-17",
+    "cierre": 19.2
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-08-24",
+    "cierre": 19.2
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-08-31",
+    "cierre": 19.2
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-09-07",
+    "cierre": 18.5
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-09-14",
+    "cierre": 18.5
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-09-21",
+    "cierre": 18.5
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-09-28",
+    "cierre": 18.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-10-05",
+    "cierre": 18.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-10-12",
+    "cierre": 18.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-10-19",
+    "cierre": 18.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-10-26",
+    "cierre": 18.49
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-11-02",
+    "cierre": 18.4
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-11-09",
+    "cierre": 18.38
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2025-11-10",
+    "cierre": 3.6116
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2025-11-17",
+    "cierre": 3.6116
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2025-11-24",
+    "cierre": 3.731
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2025-12-01",
+    "cierre": 3.6514
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2025-12-08",
+    "cierre": 3.731
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2025-12-15",
+    "cierre": 3.9599
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2025-12-22",
+    "cierre": 3.9599
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2025-12-29",
+    "cierre": 3.9599
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-01-05",
+    "cierre": 3.8803
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-01-12",
+    "cierre": 3.9798
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-01-19",
+    "cierre": 3.9798
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-01-26",
+    "cierre": 3.8604
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-02-02",
+    "cierre": 3.9997
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-02-09",
+    "cierre": 3.9101
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-02-16",
+    "cierre": 3.6813
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-02-23",
+    "cierre": 4.0295
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-03-02",
+    "cierre": 4.0295
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-03-09",
+    "cierre": 4.0295
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-03-16",
+    "cierre": 3.9798
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-03-23",
+    "cierre": 4.1787
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-03-30",
+    "cierre": 4.2782
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-04-06",
+    "cierre": 4.5369
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-04-13",
+    "cierre": 4.527
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-04-20",
+    "cierre": 4.527
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-04-27",
+    "cierre": 4.9747
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-05-04",
+    "cierre": 4.9548
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-05-11",
+    "cierre": 4.7558
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-05-18",
+    "cierre": 4.6265
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-05-25",
+    "cierre": 4.8453
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-06-01",
+    "cierre": 4.6762
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-06-08",
+    "cierre": 4.7658
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-06-15",
+    "cierre": 4.7757
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-06-22",
+    "cierre": 4.6
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-06-29",
+    "cierre": 4.49
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-07-06",
+    "cierre": 4.5
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-07-13",
+    "cierre": 4.68
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-07-20",
+    "cierre": 4.67
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-07-27",
+    "cierre": 5.03
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-08-03",
+    "cierre": 5.0
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-08-10",
+    "cierre": 5.0
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-08-17",
+    "cierre": 5.19
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-08-24",
+    "cierre": 5.2
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-08-31",
+    "cierre": 5.25
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-09-07",
+    "cierre": 5.25
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-09-14",
+    "cierre": 5.25
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-09-21",
+    "cierre": 5.1
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-09-28",
+    "cierre": 5.1
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-10-05",
+    "cierre": 5.1
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-10-12",
+    "cierre": 5.0
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-10-19",
+    "cierre": 5.05
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-10-26",
+    "cierre": 5.0
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-11-02",
+    "cierre": 5.0
+  },
+  {
+    "ticker": "HOTEL.MX",
+    "semana": "2026-11-09",
+    "cierre": 5.0
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2025-11-10",
+    "cierre": 7.7187
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2025-11-17",
+    "cierre": 7.6448
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2025-11-24",
+    "cierre": 7.6448
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2025-12-01",
+    "cierre": 7.534
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2025-12-08",
+    "cierre": 7.4878
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2025-12-15",
+    "cierre": 7.3217
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2025-12-22",
+    "cierre": 7.1185
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2025-12-29",
+    "cierre": 7.3494
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-01-05",
+    "cierre": 7.1924
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-01-12",
+    "cierre": 7.2386
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-01-19",
+    "cierre": 7.257
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-01-26",
+    "cierre": 7.1185
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-02-02",
+    "cierre": 7.294
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-02-09",
+    "cierre": 7.1093
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-02-16",
+    "cierre": 7.3771
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-02-23",
+    "cierre": 7.3771
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-03-02",
+    "cierre": 7.545
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-03-09",
+    "cierre": 7.4885
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-03-16",
+    "cierre": 7.5544
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-03-23",
+    "cierre": 7.4885
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-03-30",
+    "cierre": 7.4885
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-04-06",
+    "cierre": 7.5074
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-04-13",
+    "cierre": 7.4885
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-04-20",
+    "cierre": 7.3851
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-04-27",
+    "cierre": 7.2439
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-05-04",
+    "cierre": 7.5469
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-05-11",
+    "cierre": 7.4509
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-05-18",
+    "cierre": 7.2684
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-05-25",
+    "cierre": 7.2204
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-06-01",
+    "cierre": 7.3932
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-06-08",
+    "cierre": 7.2492
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-06-15",
+    "cierre": 6.9516
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-06-22",
+    "cierre": 7.0476
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-06-29",
+    "cierre": 7.0956
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-07-06",
+    "cierre": 7.2012
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-07-13",
+    "cierre": 7.2204
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-07-20",
+    "cierre": 7.182
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-07-27",
+    "cierre": 7.5133
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-08-03",
+    "cierre": 7.4153
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-08-10",
+    "cierre": 7.4447
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-08-17",
+    "cierre": 7.4937
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-08-24",
+    "cierre": 7.4447
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-08-31",
+    "cierre": 7.4251
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-09-07",
+    "cierre": 7.3957
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-09-14",
+    "cierre": 7.4349
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-09-21",
+    "cierre": 7.4055
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-09-28",
+    "cierre": 7.3663
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-10-05",
+    "cierre": 7.3565
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-10-12",
+    "cierre": 7.3467
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-10-19",
+    "cierre": 7.4349
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-10-26",
+    "cierre": 7.2782
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-11-02",
+    "cierre": 7.63
+  },
+  {
+    "ticker": "FIHO12.MX",
+    "semana": "2026-11-09",
+    "cierre": 7.57
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2025-11-10",
+    "cierre": 16.75
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2025-11-17",
+    "cierre": 16.75
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2025-11-24",
+    "cierre": 16.75
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2025-12-01",
+    "cierre": 16.75
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2025-12-08",
+    "cierre": 16.75
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2025-12-15",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2025-12-22",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2025-12-29",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-01-05",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-01-12",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-01-19",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-01-26",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-02-02",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-02-09",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-02-16",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-02-23",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-03-02",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-03-09",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-03-16",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-03-23",
+    "cierre": 16.5
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-03-30",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-04-06",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-04-13",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-04-20",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-04-27",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-05-04",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-05-11",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-05-18",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-05-25",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-06-01",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-06-08",
+    "cierre": 16.45
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-06-15",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-06-22",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-06-29",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-07-06",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-07-13",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-07-20",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-07-27",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-08-03",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-08-10",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-08-17",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-08-24",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-08-31",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-09-07",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-09-14",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-09-21",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-09-28",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-10-05",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-10-12",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-10-19",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-10-26",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-11-02",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "RLHA.MX",
+    "semana": "2026-11-09",
+    "cierre": 15.46
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2025-11-10",
+    "cierre": 283.3604
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2025-11-17",
+    "cierre": 294.0902
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2025-11-24",
+    "cierre": 302.9872
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2025-12-01",
+    "cierre": 290.8594
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2025-12-08",
+    "cierre": 296.9532
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2025-12-15",
+    "cierre": 308.3255
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2025-12-22",
+    "cierre": 313.7134
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2025-12-29",
+    "cierre": 311.5563
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-01-05",
+    "cierre": 326.2389
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-01-12",
+    "cierre": 323.9525
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-01-19",
+    "cierre": 317.8091
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-01-26",
+    "cierre": 313.4351
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-02-02",
+    "cierre": 331.269
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-02-09",
+    "cierre": 351.7968
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-02-16",
+    "cierre": 345.8721
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-02-23",
+    "cierre": 340.3651
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-03-02",
+    "cierre": 322.5067
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-03-09",
+    "cierre": 312.5566
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-03-16",
+    "cierre": 318.4829
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-03-23",
+    "cierre": 316.2717
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-03-30",
+    "cierre": 330.6042
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-04-06",
+    "cierre": 352.6857
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-04-13",
+    "cierre": 376.4205
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-04-20",
+    "cierre": 365.6836
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-04-27",
+    "cierre": 353.5522
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-05-04",
+    "cierre": 351.7694
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-05-11",
+    "cierre": 351.7594
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-05-18",
+    "cierre": 368.4013
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-05-25",
+    "cierre": 374.8383
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-06-01",
+    "cierre": 391.714
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-06-08",
+    "cierre": 401.7236
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-06-15",
+    "cierre": 395.3965
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-06-22",
+    "cierre": 376.5448
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-06-29",
+    "cierre": 372.1937
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-07-06",
+    "cierre": 375.3472
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-07-13",
+    "cierre": 365.4972
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-07-20",
+    "cierre": 373.6706
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-07-27",
+    "cierre": 372.0739
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-08-03",
+    "cierre": 353.1923
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-08-10",
+    "cierre": 355.9966
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-08-17",
+    "cierre": 356.39
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-08-24",
+    "cierre": 351.08
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-08-31",
+    "cierre": 336.51
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-09-07",
+    "cierre": 334.69
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-09-14",
+    "cierre": 338.92
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-09-21",
+    "cierre": 352.03
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-09-28",
+    "cierre": 358.96
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-10-05",
+    "cierre": 365.88
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-10-12",
+    "cierre": 388.05
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-10-19",
+    "cierre": 390.71
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-10-26",
+    "cierre": 399.3
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-11-02",
+    "cierre": 416.47
+  },
+  {
+    "ticker": "MAR",
+    "semana": "2026-11-09",
+    "cierre": 424.9975
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2025-11-10",
+    "cierre": 269.142
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2025-11-17",
+    "cierre": 274.0982
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2025-11-24",
+    "cierre": 284.6335
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2025-12-01",
+    "cierre": 271.8713
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2025-12-08",
+    "cierre": 279.8501
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2025-12-15",
+    "cierre": 291.8434
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2025-12-22",
+    "cierre": 293.0717
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2025-12-29",
+    "cierre": 292.5724
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-01-05",
+    "cierre": 299.9421
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-01-12",
+    "cierre": 300.4315
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-01-19",
+    "cierre": 297.6953
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-01-26",
+    "cierre": 298.0948
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-02-02",
+    "cierre": 313.9426
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-02-09",
+    "cierre": 314.1823
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-02-16",
+    "cierre": 315.5204
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-02-23",
+    "cierre": 311.4933
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-03-02",
+    "cierre": 298.3654
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-03-09",
+    "cierre": 291.2819
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-03-16",
+    "cierre": 292.3109
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-03-23",
+    "cierre": 293.7696
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-03-30",
+    "cierre": 304.6696
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-04-06",
+    "cierre": 323.1326
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-04-13",
+    "cierre": 340.7164
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-04-20",
+    "cierre": 335.3214
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-04-27",
+    "cierre": 318.317
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-05-04",
+    "cierre": 316.4887
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-05-11",
+    "cierre": 315.8792
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-05-18",
+    "cierre": 320.9339
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-05-25",
+    "cierre": 327.5109
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-06-01",
+    "cierre": 342.9439
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-06-08",
+    "cierre": 345.7926
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-06-15",
+    "cierre": 348.6812
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-06-22",
+    "cierre": 332.7085
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-06-29",
+    "cierre": 337.9661
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-07-06",
+    "cierre": 335.3273
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-07-13",
+    "cierre": 321.1738
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-07-20",
+    "cierre": 324.8221
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-07-27",
+    "cierre": 320.3441
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-08-03",
+    "cierre": 317.4555
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-08-10",
+    "cierre": 327.0611
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-08-17",
+    "cierre": 326.63
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-08-24",
+    "cierre": 321.85
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-08-31",
+    "cierre": 311.18
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-09-07",
+    "cierre": 306.19
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-09-14",
+    "cierre": 305.73
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-09-21",
+    "cierre": 313.96
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-09-28",
+    "cierre": 319.36
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-10-05",
+    "cierre": 326.56
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-10-12",
+    "cierre": 345.12
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-10-19",
+    "cierre": 349.63
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-10-26",
+    "cierre": 356.92
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-11-02",
+    "cierre": 370.45
+  },
+  {
+    "ticker": "HLT",
+    "semana": "2026-11-09",
+    "cierre": 374.93
+  },
+  {
+    "ticker": "H",
+    "semana": "2025-11-10",
+    "cierre": 151.7633
+  },
+  {
+    "ticker": "H",
+    "semana": "2025-11-17",
+    "cierre": 157.9215
+  },
+  {
+    "ticker": "H",
+    "semana": "2025-11-24",
+    "cierre": 163.9659
+  },
+  {
+    "ticker": "H",
+    "semana": "2025-12-01",
+    "cierre": 155.5975
+  },
+  {
+    "ticker": "H",
+    "semana": "2025-12-08",
+    "cierre": 161.1332
+  },
+  {
+    "ticker": "H",
+    "semana": "2025-12-15",
+    "cierre": 164.1454
+  },
+  {
+    "ticker": "H",
+    "semana": "2025-12-22",
+    "cierre": 165.2625
+  },
+  {
+    "ticker": "H",
+    "semana": "2025-12-29",
+    "cierre": 165.1428
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-01-05",
+    "cierre": 167.7561
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-01-12",
+    "cierre": 167.5067
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-01-19",
+    "cierre": 163.3574
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-01-26",
+    "cierre": 155.9665
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-02-02",
+    "cierre": 162.4498
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-02-09",
+    "cierre": 164.9633
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-02-16",
+    "cierre": 171.3966
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-02-23",
+    "cierre": 161.0833
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-03-02",
+    "cierre": 149.3727
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-03-09",
+    "cierre": 139.0698
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-03-16",
+    "cierre": 141.8751
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-03-23",
+    "cierre": 142.0748
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-03-30",
+    "cierre": 143.2329
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-04-06",
+    "cierre": 154.9934
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-04-13",
+    "cierre": 172.1949
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-04-20",
+    "cierre": 163.9885
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-04-27",
+    "cierre": 163.4594
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-05-04",
+    "cierre": 167.323
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-05-11",
+    "cierre": 168.501
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-05-18",
+    "cierre": 173.8622
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-05-25",
+    "cierre": 181.2068
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-06-01",
+    "cierre": 192.8969
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-06-08",
+    "cierre": 199.1916
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-06-15",
+    "cierre": 201.9193
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-06-22",
+    "cierre": 197.513
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-06-29",
+    "cierre": 191.1184
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-07-06",
+    "cierre": 190.9785
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-07-13",
+    "cierre": 190.489
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-07-20",
+    "cierre": 186.9719
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-07-27",
+    "cierre": 173.913
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-08-03",
+    "cierre": 177.5599
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-08-10",
+    "cierre": 180.8271
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-08-17",
+    "cierre": 180.5174
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-08-24",
+    "cierre": 172.25
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-08-31",
+    "cierre": 165.85
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-09-07",
+    "cierre": 163.07
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-09-14",
+    "cierre": 155.04
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-09-21",
+    "cierre": 158.48
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-09-28",
+    "cierre": 158.9
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-10-05",
+    "cierre": 161.94
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-10-12",
+    "cierre": 169.13
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-10-19",
+    "cierre": 172.58
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-10-26",
+    "cierre": 180.57
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-11-02",
+    "cierre": 184.32
+  },
+  {
+    "ticker": "H",
+    "semana": "2026-11-09",
+    "cierre": 188.38
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2025-11-10",
+    "cierre": 127.2701
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2025-11-17",
+    "cierre": 128.8891
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2025-11-24",
+    "cierre": 132.4628
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2025-12-01",
+    "cierre": 131.8606
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2025-12-08",
+    "cierre": 136.8953
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2025-12-15",
+    "cierre": 141.0218
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2025-12-22",
+    "cierre": 141.5747
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2025-12-29",
+    "cierre": 138.5538
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-01-05",
+    "cierre": 136.9348
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-01-12",
+    "cierre": 137.4284
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-01-19",
+    "cierre": 136.7275
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-01-26",
+    "cierre": 135.4836
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-02-02",
+    "cierre": 142.9765
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-02-09",
+    "cierre": 144.2599
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-02-16",
+    "cierre": 142.5619
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-02-23",
+    "cierre": 137.2606
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-03-02",
+    "cierre": 130.9227
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-03-09",
+    "cierre": 127.2504
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-03-16",
+    "cierre": 127.586
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-03-23",
+    "cierre": 127.9414
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-03-30",
+    "cierre": 132.1864
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-04-06",
+    "cierre": 140.9087
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-04-13",
+    "cierre": 146.257
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-04-20",
+    "cierre": 145.6893
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-04-27",
+    "cierre": 142.3628
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-05-04",
+    "cierre": 149.0159
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-05-11",
+    "cierre": 147.9801
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-05-18",
+    "cierre": 152.4718
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-05-25",
+    "cierre": 154.2546
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-06-01",
+    "cierre": 161.4953
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-06-08",
+    "cierre": 166.4452
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-06-15",
+    "cierre": 170.3295
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-06-22",
+    "cierre": 172.1521
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-06-29",
+    "cierre": 169.2439
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-07-06",
+    "cierre": 164.3437
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-07-13",
+    "cierre": 157.4417
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-07-20",
+    "cierre": 155.5494
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-07-27",
+    "cierre": 161.6247
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-08-03",
+    "cierre": 156.874
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-08-10",
+    "cierre": 159.5731
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-08-17",
+    "cierre": 159.91
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-08-24",
+    "cierre": 162.38
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-08-31",
+    "cierre": 159.95
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-09-07",
+    "cierre": 153.83
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-09-14",
+    "cierre": 153.09
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-09-21",
+    "cierre": 158.16
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-09-28",
+    "cierre": 161.74
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-10-05",
+    "cierre": 160.68
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-10-12",
+    "cierre": 167.77
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-10-19",
+    "cierre": 162.4
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-10-26",
+    "cierre": 167.81
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-11-02",
+    "cierre": 178.75
+  },
+  {
+    "ticker": "IHG",
+    "semana": "2026-11-09",
+    "cierre": 180.07
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2025-11-10",
+    "cierre": 45.1264
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2025-11-17",
+    "cierre": 44.2716
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2025-11-24",
+    "cierre": 45.2818
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2025-12-01",
+    "cierre": 45.2429
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2025-12-08",
+    "cierre": 45.4566
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2025-12-15",
+    "cierre": 46.6804
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2025-12-22",
+    "cierre": 46.2336
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2025-12-29",
+    "cierre": 46.4376
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-01-05",
+    "cierre": 46.3502
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-01-12",
+    "cierre": 44.971
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-01-19",
+    "cierre": 45.1749
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-01-26",
+    "cierre": 44.5436
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-02-02",
+    "cierre": 47.3798
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-02-09",
+    "cierre": 47.8071
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-02-16",
+    "cierre": 47.0884
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-02-23",
+    "cierre": 47.846
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-03-02",
+    "cierre": 42.0862
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-03-09",
+    "cierre": 39.3374
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-03-16",
+    "cierre": 38.5895
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-03-23",
+    "cierre": 39.2695
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-03-30",
+    "cierre": 41.28
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-04-06",
+    "cierre": 43.4363
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-04-13",
+    "cierre": 45.0972
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-04-20",
+    "cierre": 41.9697
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-04-27",
+    "cierre": 40.9207
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-05-04",
+    "cierre": 42.9507
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-05-11",
+    "cierre": 42.1931
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-05-18",
+    "cierre": 43.4946
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-05-25",
+    "cierre": 45.68
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-06-01",
+    "cierre": 45.39
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-06-08",
+    "cierre": 47.39
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-06-15",
+    "cierre": 48.3
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-06-22",
+    "cierre": 50.18
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-06-29",
+    "cierre": 50.9
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-07-06",
+    "cierre": 48.99
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-07-13",
+    "cierre": 46.81
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-07-20",
+    "cierre": 46.31
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-07-27",
+    "cierre": 44.9
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-08-03",
+    "cierre": 46.8
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-08-10",
+    "cierre": 46.66
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-08-17",
+    "cierre": 45.53
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-08-24",
+    "cierre": 46.73
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-08-31",
+    "cierre": 46.9
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-09-07",
+    "cierre": 46.07
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-09-14",
+    "cierre": 45.58
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-09-21",
+    "cierre": 45.89
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-09-28",
+    "cierre": 44.2
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-10-05",
+    "cierre": 45.39
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-10-12",
+    "cierre": 46.9
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-10-19",
+    "cierre": 44.53
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-10-26",
+    "cierre": 46.32
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-11-02",
+    "cierre": 50.0
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-11-09",
+    "cierre": 51.72
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2025-11-10",
+    "cierre": 93.9871
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2025-11-17",
+    "cierre": 89.7549
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2025-11-24",
+    "cierre": 90.2395
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2025-12-01",
+    "cierre": 84.801
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2025-12-08",
+    "cierre": 90.2691
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2025-12-15",
+    "cierre": 95.8757
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2025-12-22",
+    "cierre": 94.877
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2025-12-29",
+    "cierre": 95.3135
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-01-05",
+    "cierre": 107.2946
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-01-12",
+    "cierre": 107.0665
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-01-19",
+    "cierre": 103.9324
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-01-26",
+    "cierre": 101.9587
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-02-02",
+    "cierre": 108.3856
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-02-09",
+    "cierre": 109.1394
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-02-16",
+    "cierre": 109.2981
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-02-23",
+    "cierre": 104.4878
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-03-02",
+    "cierre": 99.6577
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-03-09",
+    "cierre": 94.6787
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-03-16",
+    "cierre": 96.831
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-03-23",
+    "cierre": 99.7965
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-03-30",
+    "cierre": 103.3074
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-04-06",
+    "cierre": 111.463
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-04-13",
+    "cierre": 118.5444
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-04-20",
+    "cierre": 118.425
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-04-27",
+    "cierre": 100.1545
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-05-04",
+    "cierre": 106.0027
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-05-11",
+    "cierre": 106.3607
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-05-18",
+    "cierre": 112.5073
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-05-25",
+    "cierre": 108.2902
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-06-01",
+    "cierre": 109.2152
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-06-08",
+    "cierre": 108.9666
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-06-15",
+    "cierre": 114.3771
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-06-22",
+    "cierre": 112.1094
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-06-29",
+    "cierre": 112.054
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-07-06",
+    "cierre": 109.4114
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-07-13",
+    "cierre": 111.5255
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-07-20",
+    "cierre": 110.2092
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-07-27",
+    "cierre": 111.1765
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-08-03",
+    "cierre": 106.3601
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-08-10",
+    "cierre": 104.1463
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-08-17",
+    "cierre": 109.3117
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-08-24",
+    "cierre": 108.5539
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-08-31",
+    "cierre": 100.337
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-09-07",
+    "cierre": 96.4979
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-09-14",
+    "cierre": 96.5776
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-09-21",
+    "cierre": 101.5237
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-09-28",
+    "cierre": 102.5
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-10-05",
+    "cierre": 105.64
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-10-12",
+    "cierre": 108.41
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-10-19",
+    "cierre": 108.48
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-10-26",
+    "cierre": 111.16
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-11-02",
+    "cierre": 118.91
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-11-09",
+    "cierre": 118.36
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2025-11-10",
+    "cierre": 1.1629
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2025-11-17",
+    "cierre": 1.1517
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2025-11-24",
+    "cierre": 1.1597
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2025-12-01",
+    "cierre": 1.1647
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2025-12-08",
+    "cierre": 1.1747
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2025-12-15",
+    "cierre": 1.1714
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2025-12-22",
+    "cierre": 1.1776
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2025-12-29",
+    "cierre": 1.1732
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-01-05",
+    "cierre": 1.1636
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-01-12",
+    "cierre": 1.1608
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-01-19",
+    "cierre": 1.1827
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-01-26",
+    "cierre": 1.1855
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-02-02",
+    "cierre": 1.1819
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-02-09",
+    "cierre": 1.1872
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-02-16",
+    "cierre": 1.179
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-02-23",
+    "cierre": 1.1819
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-03-02",
+    "cierre": 1.1623
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-03-09",
+    "cierre": 1.1469
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-03-16",
+    "cierre": 1.1593
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-03-23",
+    "cierre": 1.1547
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-03-30",
+    "cierre": 1.1522
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-04-06",
+    "cierre": 1.1729
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-04-13",
+    "cierre": 1.1774
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-04-20",
+    "cierre": 1.1725
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-04-27",
+    "cierre": 1.1727
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-05-04",
+    "cierre": 1.1794
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-05-11",
+    "cierre": 1.1624
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-05-18",
+    "cierre": 1.1609
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-05-25",
+    "cierre": 1.166
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-06-01",
+    "cierre": 1.1525
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-06-08",
+    "cierre": 1.1577
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-06-15",
+    "cierre": 1.148
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-06-22",
+    "cierre": 1.1395
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-06-29",
+    "cierre": 1.1444
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-07-06",
+    "cierre": 1.1419
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-07-13",
+    "cierre": 1.1442
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-07-20",
+    "cierre": 1.1378
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-07-27",
+    "cierre": 1.1538
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-08-03",
+    "cierre": 1.1563
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-08-10",
+    "cierre": 1.1569
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-08-17",
+    "cierre": 1.1689
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-08-24",
+    "cierre": 1.1587
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-08-31",
+    "cierre": 1.1621
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-09-07",
+    "cierre": 1.1605
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-09-14",
+    "cierre": 1.1488
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-09-21",
+    "cierre": 1.1391
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-09-28",
+    "cierre": 1.1261
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-10-05",
+    "cierre": 1.1206
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-10-12",
+    "cierre": 1.1238
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-10-19",
+    "cierre": 1.1203
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-10-26",
+    "cierre": 1.1207
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-11-02",
+    "cierre": 1.1152
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-11-09",
+    "cierre": 1.1033
+  }
+]

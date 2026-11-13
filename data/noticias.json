@@ -1,10 +1,20 @@
 {
-  "actualizado": "2026-11-12T23:15:16.426093+00:00",
+  "actualizado": "2026-11-13T17:41:27.030192+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
     "FINN13.MX": [],
+    "CIDMEGA.MX": [],
+    "HOTEL.MX": [],
+    "FIHO12.MX": [],
+    "RLHA.MX": [],
     "MAR": [
+      {
+        "titulo": "Hyatt's Midscale Pipeline Tops 150: Can New Markets Drive Growth?",
+        "fuente": "Zacks",
+        "fecha": "2026-11-13T15:43:00Z",
+        "url": "https://finance.yahoo.com/real-estate/articles/hyatts-midscale-pipeline-tops-150-154300653.html"
+      },
       {
         "titulo": "What Could Surprise Carnival Stock Investors On The Upside?",
         "fuente": "Trefis",
@@ -28,15 +38,15 @@
         "fuente": "Yahoo Finance Video",
         "fecha": "2026-11-09T11:00:00Z",
         "url": "https://finance.yahoo.com/video/business-mistake-mcdonalds-chipotle-keep-110000524.html"
-      },
-      {
-        "titulo": "Marriott International (MAR) Enters Laos With Luxury Collection Debut In Luang Prabang",
-        "fuente": "Simply Wall St.",
-        "fecha": "2026-11-08T02:15:52Z",
-        "url": "https://finance.yahoo.com/real-estate/articles/marriott-international-mar-enters-laos-021552009.html"
       }
     ],
     "HLT": [
+      {
+        "titulo": "Hyatt's Midscale Pipeline Tops 150: Can New Markets Drive Growth?",
+        "fuente": "Zacks",
+        "fecha": "2026-11-13T15:43:00Z",
+        "url": "https://finance.yahoo.com/real-estate/articles/hyatts-midscale-pipeline-tops-150-154300653.html"
+      },
       {
         "titulo": "What Could Surprise Carnival Stock Investors On The Upside?",
         "fuente": "Trefis",
@@ -60,15 +70,27 @@
         "fuente": "Trefis",
         "fecha": "2026-11-06T14:19:36Z",
         "url": "https://www.trefis.com/stock/ccl/articles/623328/how-long-should-you-wait-for-carnival-stock-to-recover/2026-11-06"
-      },
-      {
-        "titulo": "Hilton's CEO doesn't see any 'dramatic' impact from the blue wave",
-        "fuente": "Yahoo Finance",
-        "fecha": "2026-11-05T17:11:42Z",
-        "url": "https://finance.yahoo.com/markets/stocks/article/hiltons-ceo-doesnt-see-any-dramatic-impact-from-the-blue-wave-171837839.html"
       }
     ],
     "H": [
+      {
+        "titulo": "Hyatt's Midscale Pipeline Tops 150: Can New Markets Drive Growth?",
+        "fuente": "Zacks",
+        "fecha": "2026-11-13T15:43:00Z",
+        "url": "https://finance.yahoo.com/real-estate/articles/hyatts-midscale-pipeline-tops-150-154300653.html"
+      },
+      {
+        "titulo": "Lodging Lowdown: Hyatt opens lifestyle JdV hotel in Pacific Northwest",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-13T14:39:46Z",
+        "url": "https://www.hoteldive.com/news/hyatt-opens-lifestyle-jdv-hotel-pnw-aihg-names-execs/874611/"
+      },
+      {
+        "titulo": "Loyalty members seek rewards of all sizes",
+        "fuente": "CX Dive",
+        "fecha": "2026-11-13T12:00:00Z",
+        "url": "https://www.customerexperiencedive.com/news/loyalty-members-seek-rewards-of-all-sizes/874568/"
+      },
       {
         "titulo": "Tesla fund makes surprise Microsoft bet, keeps Nvidia stake",
         "fuente": "GuruFocus.com",
@@ -80,24 +102,6 @@
         "fuente": "Trefis",
         "fecha": "2026-11-12T15:13:00Z",
         "url": "https://www.trefis.com/stock/bkng/articles/624762/how-has-booking-holdings-story-changed/2026-11-12"
-      },
-      {
-        "titulo": "DFW Airport acquires on-site Hyatt Regency hotel for $194m",
-        "fuente": "Hotel Management Network",
-        "fecha": "2026-11-12T09:19:17Z",
-        "url": "https://www.hotelmanagement-network.com/news/dfw-airport-acquires-on-site-hyatt-regency-hotel-for-194m/"
-      },
-      {
-        "titulo": "Hyatt (H) Stock May Be Near Fair Value After Strong Q3 Results",
-        "fuente": "Simply Wall St.",
-        "fecha": "2026-11-12T05:18:49Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hyatt-h-stock-may-near-051849131.html"
-      },
-      {
-        "titulo": "What Hyatt Hotels Doubters Got Wrong",
-        "fuente": "Simply Wall St.",
-        "fecha": "2026-11-11T17:14:36Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hyatt-hotels-doubters-got-wrong-171436953.html"
       }
     ],
     "IHG": [
@@ -130,6 +134,70 @@
         "fuente": "Hotel Management Network",
         "fecha": "2026-10-28T11:13:49Z",
         "url": "https://www.hotelmanagement-network.com/news/ihg-signs-90-room-holiday-inn-express/"
+      }
+    ],
+    "AC.PA": [
+      {
+        "titulo": "Lodging Lowdown: Hyatt opens lifestyle JdV hotel in Pacific Northwest",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-13T14:39:46Z",
+        "url": "https://www.hoteldive.com/news/hyatt-opens-lifestyle-jdv-hotel-pnw-aihg-names-execs/874611/"
+      },
+      {
+        "titulo": "Accor, Hard Rock enter partnership on loyalty, distribution",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-10T15:21:56Z",
+        "url": "https://www.hoteldive.com/news/accor-hard-rock-enter-partnership-loyalty-distribution/874251/"
+      },
+      {
+        "titulo": "Accor (ENXTPA:AC) Stock May Be 37% Undervalued On Hotel Collection Expansion",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-08T20:10:49Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/accor-enxtpa-ac-stock-may-201049743.html"
+      },
+      {
+        "titulo": "Accor signs deal for Novotel resort project in Rajasthan",
+        "fuente": "Hotel Management Network",
+        "fecha": "2026-11-05T11:20:57Z",
+        "url": "https://www.hotelmanagement-network.com/news/accor-signs-deal-for-novotel-resort-project-in-rajasthan/"
+      },
+      {
+        "titulo": "Accor selects IDeaS Optix for global hotel portfolio",
+        "fuente": "Hotel Management Network",
+        "fecha": "2026-10-30T10:43:05Z",
+        "url": "https://www.hotelmanagement-network.com/news/accor-selects-ideas-optix-for-global-hotel-portfolio/"
+      }
+    ],
+    "CHH": [
+      {
+        "titulo": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-06T14:30:17Z",
+        "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/"
+      },
+      {
+        "titulo": "Choice Hotels Stock Gets An Earnings Beat And Higher RevPAR Outlook",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-03T07:05:54Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/choice-hotels-stock-gets-earnings-070554763.html"
+      },
+      {
+        "titulo": "Choice Hotels International (CHH) Could Be 3% Above Fair Value After Guidance Upgrade",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-03T06:10:15Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/choice-hotels-international-chh-could-061015878.html"
+      },
+      {
+        "titulo": "Choice Hotels International Inc (CHH) (Q3 2026) Earnings Call Highlights: RevPAR Beats, ...",
+        "fuente": "GuruFocus.com",
+        "fecha": "2026-11-02T23:03:36Z",
+        "url": "https://finance.yahoo.com/real-estate/articles/choice-hotels-international-inc-chh-230336795.html"
+      },
+      {
+        "titulo": "Choice Hotels International, Inc. Q3 2026 Earnings Call Summary",
+        "fuente": "Moby",
+        "fecha": "2026-11-02T21:50:29Z",
+        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-choice-hotels-international-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss"
       }
     ]
   }
