@@ -9,7 +9,7 @@
   },
   {
     "ticker": "HCITY.MX",
-    "precio": 6.0,
+    "precio": 5.89,
     "min_52s": 5.35,
     "max_52s": 6.71,
     "mediana_52s": 6.06,
@@ -29,11 +29,11 @@
     "min_52s": 18.38,
     "max_52s": 25.0,
     "mediana_52s": 19.5,
-    "fecha": "2026-11-10"
+    "fecha": "2026-11-13"
   },
   {
     "ticker": "HOTEL.MX",
-    "precio": 5.0,
+    "precio": 5.03,
     "min_52s": 3.6017,
     "max_52s": 5.35,
     "mediana_52s": 4.5484,
@@ -41,7 +41,7 @@
   },
   {
     "ticker": "FIHO12.MX",
-    "precio": 7.57,
+    "precio": 7.56,
     "min_52s": 6.7691,
     "max_52s": 7.7833,
     "mediana_52s": 7.3932,
@@ -57,56 +57,56 @@
   },
   {
     "ticker": "MAR",
-    "precio": 424.9975,
-    "min_52s": 280.5539,
+    "precio": 423.16,
+    "min_52s": 280.5538,
     "max_52s": 429.18,
-    "mediana_52s": 351.9694,
+    "mediana_52s": 352.03,
     "fecha": "2026-11-13"
   },
   {
     "ticker": "HLT",
-    "precio": 374.9075,
+    "precio": 373.09,
     "min_52s": 263.8025,
     "max_52s": 379.76,
-    "mediana_52s": 316.2545,
+    "mediana_52s": 316.28,
     "fecha": "2026-11-13"
   },
   {
     "ticker": "H",
-    "precio": 188.38,
+    "precio": 187.7,
     "min_52s": 139.0698,
     "max_52s": 201.9193,
-    "mediana_52s": 165.4559,
+    "mediana_52s": 165.5218,
     "fecha": "2026-11-13"
   },
   {
     "ticker": "IHG",
-    "precio": 180.07,
+    "precio": 179.93,
     "min_52s": 123.0646,
     "max_52s": 181.41,
-    "mediana_52s": 149.6632,
+    "mediana_52s": 149.7728,
     "fecha": "2026-11-13"
   },
   {
     "ticker": "AC.PA",
-    "precio": 51.72,
+    "precio": null,
     "min_52s": 38.3661,
     "max_52s": 52.44,
-    "mediana_52s": 45.6946,
+    "mediana_52s": 45.68,
     "fecha": "2026-11-13"
   },
   {
     "ticker": "CHH",
-    "precio": 118.36,
+    "precio": 118.78,
     "min_52s": 83.4562,
     "max_52s": 121.4187,
-    "mediana_52s": 105.9196,
+    "mediana_52s": 105.953,
     "fecha": "2026-11-13"
   },
   {
     "ticker": "EURUSD=X",
-    "precio": 1.1033,
-    "min_52s": 1.1033,
+    "precio": 1.1028,
+    "min_52s": 1.1028,
     "max_52s": 1.2018,
     "mediana_52s": 1.1607,
     "fecha": "2026-11-13"

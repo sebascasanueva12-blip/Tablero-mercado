@@ -527,7 +527,7 @@
   {
     "ticker": "HCITY.MX",
     "semana": "2026-11-09",
-    "cierre": 6.0
+    "cierre": 5.89
   },
   {
     "ticker": "FINN13.MX",
@@ -1322,7 +1322,7 @@
   {
     "ticker": "HOTEL.MX",
     "semana": "2026-11-09",
-    "cierre": 5.0
+    "cierre": 5.03
   },
   {
     "ticker": "FIHO12.MX",
@@ -1587,7 +1587,7 @@
   {
     "ticker": "FIHO12.MX",
     "semana": "2026-11-09",
-    "cierre": 7.57
+    "cierre": 7.56
   },
   {
     "ticker": "RLHA.MX",
@@ -1947,7 +1947,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-03-16",
-    "cierre": 318.4829
+    "cierre": 318.4828
   },
   {
     "ticker": "MAR",
@@ -2117,7 +2117,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-11-09",
-    "cierre": 424.9975
+    "cierre": 423.16
   },
   {
     "ticker": "HLT",
@@ -2152,7 +2152,7 @@
   {
     "ticker": "HLT",
     "semana": "2025-12-22",
-    "cierre": 293.0717
+    "cierre": 293.0718
   },
   {
     "ticker": "HLT",
@@ -2182,7 +2182,7 @@
   {
     "ticker": "HLT",
     "semana": "2026-02-02",
-    "cierre": 313.9426
+    "cierre": 313.9427
   },
   {
     "ticker": "HLT",
@@ -2382,7 +2382,7 @@
   {
     "ticker": "HLT",
     "semana": "2026-11-09",
-    "cierre": 374.93
+    "cierre": 373.09
   },
   {
     "ticker": "H",
@@ -2647,7 +2647,7 @@
   {
     "ticker": "H",
     "semana": "2026-11-09",
-    "cierre": 188.38
+    "cierre": 187.7
   },
   {
     "ticker": "IHG",
@@ -2912,7 +2912,7 @@
   {
     "ticker": "IHG",
     "semana": "2026-11-09",
-    "cierre": 180.07
+    "cierre": 179.93
   },
   {
     "ticker": "AC.PA",
@@ -3442,7 +3442,7 @@
   {
     "ticker": "CHH",
     "semana": "2026-11-09",
-    "cierre": 118.36
+    "cierre": 118.78
   },
   {
     "ticker": "EURUSD=X",
@@ -3707,6 +3707,6 @@
   {
     "ticker": "EURUSD=X",
     "semana": "2026-11-09",
-    "cierre": 1.1033
+    "cierre": 1.1028
   }
 ]

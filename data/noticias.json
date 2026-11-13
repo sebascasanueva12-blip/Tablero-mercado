@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T17:41:27.030192+00:00",
+  "actualizado": "2026-11-13T23:15:50.069347+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -9,6 +9,12 @@
     "FIHO12.MX": [],
     "RLHA.MX": [],
     "MAR": [
+      {
+        "titulo": "These 4 Travel Stocks Depend on Holiday Spending",
+        "fuente": "Motley Fool",
+        "fecha": "2026-11-13T21:41:00Z",
+        "url": "https://www.fool.com/investing/2026/11/13/these-4-travel-stocks-depend-on-holiday-spending/"
+      },
       {
         "titulo": "Hyatt's Midscale Pipeline Tops 150: Can New Markets Drive Growth?",
         "fuente": "Zacks",
@@ -32,12 +38,6 @@
         "fuente": "Yahoo Finance Video",
         "fecha": "2026-11-09T12:00:00Z",
         "url": "https://finance.yahoo.com/video/robots-surge-pricing-wont-save-120000821.html"
-      },
-      {
-        "titulo": "The business mistake McDonald's and Chipotle keep making: Robert Irvine",
-        "fuente": "Yahoo Finance Video",
-        "fecha": "2026-11-09T11:00:00Z",
-        "url": "https://finance.yahoo.com/video/business-mistake-mcdonalds-chipotle-keep-110000524.html"
       }
     ],
     "HLT": [
