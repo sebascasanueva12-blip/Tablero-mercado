@@ -11,8 +11,10 @@ import yfinance as yf
 
 # ===== EDITA AQUÍ TUS EMISORAS =====
 # Mexicanas llevan el sufijo .MX
-NACIONALES = ["POSADASA.MX", "HCITY.MX", "FINN13.MX"]
-INTERNACIONALES = ["MAR", "HLT", "H", "IHG"]
+NACIONALES = ["POSADASA.MX", "HCITY.MX", "FINN13.MX", "CIDMEGA.MX",
+              "HOTEL.MX", "FIHO12.MX", "RLHA.MX"]
+INTERNACIONALES = ["MAR", "HLT", "H", "IHG", "AC.PA", "CHH"]
+EXTRAS_BENCHMARK = ["EURUSD=X"]  # solo para el benchmark (tipo de cambio)
 # ====================================
 
 CARPETA = "data"
@@ -101,6 +103,38 @@ def guardar(nombre, contenido):
         json.dump(contenido, f, ensure_ascii=False, indent=2)
 
 
+def benchmark(tickers):
+    """Archivos con el mismo formato que usa el benchmark de Claude."""
+    precios, semanales = [], []
+    for tk in tickers:
+        print("Benchmark", tk)
+        try:
+            t = yf.Ticker(tk)
+            diario = t.history(period="1y")
+            if diario.empty:
+                continue
+            # Emisoras poco bursátiles: precio = última operación real (volumen > 0)
+            operados = diario if tk.endswith("=X") else diario[diario["Volume"] > 0]
+            if operados.empty:
+                operados = diario
+            cierres = diario["Close"]
+            precios.append({
+                "ticker": tk,
+                "precio": numero(operados["Close"].iloc[-1]),
+                "min_52s": numero(cierres.min()),
+                "max_52s": numero(cierres.max()),
+                "mediana_52s": numero(cierres.median()),
+                "fecha": str(operados.index[-1].date()),
+            })
+            semanal = t.history(period="1y", interval="1wk")["Close"].dropna()
+            for fecha, cierre in semanal.items():
+                semanales.append({"ticker": tk, "semana": str(fecha.date()), "cierre": numero(cierre)})
+        except Exception as e:
+            print("Error en", tk, e)
+    guardar("benchmark_precios.json", precios)
+    guardar("benchmark_semanales.json", semanales)
+
+
 def main():
     os.makedirs(CARPETA, exist_ok=True)
     ahora = datetime.now(timezone.utc).isoformat()
@@ -121,6 +155,7 @@ def main():
         "actualizado": ahora,
         "emisoras": {tk: noticias(tk) for tk in NACIONALES + INTERNACIONALES},
     })
+    benchmark(NACIONALES + INTERNACIONALES + EXTRAS_BENCHMARK)
     print("Listo")
 
 
