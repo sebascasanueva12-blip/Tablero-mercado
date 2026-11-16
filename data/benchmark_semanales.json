@@ -1856,18 +1856,13 @@
   },
   {
     "ticker": "MAR",
-    "semana": "2025-11-10",
-    "cierre": 283.3604
-  },
-  {
-    "ticker": "MAR",
     "semana": "2025-11-17",
     "cierre": 294.0902
   },
   {
     "ticker": "MAR",
     "semana": "2025-11-24",
-    "cierre": 302.9872
+    "cierre": 302.9873
   },
   {
     "ticker": "MAR",
@@ -1892,7 +1887,7 @@
   {
     "ticker": "MAR",
     "semana": "2025-12-29",
-    "cierre": 311.5563
+    "cierre": 311.5562
   },
   {
     "ticker": "MAR",
@@ -2120,9 +2115,9 @@
     "cierre": 423.16
   },
   {
-    "ticker": "HLT",
-    "semana": "2025-11-10",
-    "cierre": 269.142
+    "ticker": "MAR",
+    "semana": "2026-11-16",
+    "cierre": 425.7
   },
   {
     "ticker": "HLT",
@@ -2152,7 +2147,7 @@
   {
     "ticker": "HLT",
     "semana": "2025-12-22",
-    "cierre": 293.0718
+    "cierre": 293.0717
   },
   {
     "ticker": "HLT",
@@ -2192,7 +2187,7 @@
   {
     "ticker": "HLT",
     "semana": "2026-02-16",
-    "cierre": 315.5204
+    "cierre": 315.5205
   },
   {
     "ticker": "HLT",
@@ -2385,9 +2380,9 @@
     "cierre": 373.09
   },
   {
-    "ticker": "H",
-    "semana": "2025-11-10",
-    "cierre": 151.7633
+    "ticker": "HLT",
+    "semana": "2026-11-16",
+    "cierre": 373.83
   },
   {
     "ticker": "H",
@@ -2650,9 +2645,9 @@
     "cierre": 187.7
   },
   {
-    "ticker": "IHG",
-    "semana": "2025-11-10",
-    "cierre": 127.2701
+    "ticker": "H",
+    "semana": "2026-11-16",
+    "cierre": 190.58
   },
   {
     "ticker": "IHG",
@@ -2737,7 +2732,7 @@
   {
     "ticker": "IHG",
     "semana": "2026-03-09",
-    "cierre": 127.2504
+    "cierre": 127.2503
   },
   {
     "ticker": "IHG",
@@ -2915,9 +2910,9 @@
     "cierre": 179.93
   },
   {
-    "ticker": "AC.PA",
-    "semana": "2025-11-10",
-    "cierre": 45.1264
+    "ticker": "IHG",
+    "semana": "2026-11-16",
+    "cierre": 180.85
   },
   {
     "ticker": "AC.PA",
@@ -3181,11 +3176,6 @@
   },
   {
     "ticker": "CHH",
-    "semana": "2025-11-10",
-    "cierre": 93.9871
-  },
-  {
-    "ticker": "CHH",
     "semana": "2025-11-17",
     "cierre": 89.7549
   },
@@ -3443,6 +3433,11 @@
     "ticker": "CHH",
     "semana": "2026-11-09",
     "cierre": 118.78
+  },
+  {
+    "ticker": "CHH",
+    "semana": "2026-11-16",
+    "cierre": 120.95
   },
   {
     "ticker": "EURUSD=X",
@@ -3707,6 +3702,11 @@
   {
     "ticker": "EURUSD=X",
     "semana": "2026-11-09",
-    "cierre": 1.1028
+    "cierre": 1.1025
+  },
+  {
+    "ticker": "EURUSD=X",
+    "semana": "2026-11-16",
+    "cierre": 1.1002
   }
 ]

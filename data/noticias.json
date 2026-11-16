@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T23:15:50.069347+00:00",
+  "actualizado": "2026-11-16T23:16:59.464527+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -10,37 +10,43 @@
     "RLHA.MX": [],
     "MAR": [
       {
+        "titulo": "US Hotel Rates Forecast to Rise 1.6% in 2027, Below Inflation",
+        "fuente": "CRE Daily",
+        "fecha": "2026-11-16T17:33:21Z",
+        "url": "https://www.credaily.com/briefs/us-hotel-rates-forecast-to-rise-1-6-in-2027-below-inflation/"
+      },
+      {
+        "titulo": "What Would Unrest In Europe Do To Airbnb Stock?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-16T16:46:44Z",
+        "url": "https://www.trefis.com/stock/abnb/articles/625250/what-would-unrest-in-europe-do-to-airbnb-stock/2026-11-16"
+      },
+      {
+        "titulo": "Here's How Much a $1000 Investment in Marriott International Made 10 Years Ago Would Be Worth Today",
+        "fuente": "Zacks",
+        "fecha": "2026-11-16T12:30:02Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-marriott-123002335.html"
+      },
+      {
+        "titulo": "American Express vs. Mastercard: Which Financial Stock Is a Better Buy for 2027?",
+        "fuente": "Motley Fool",
+        "fecha": "2026-11-14T20:32:01Z",
+        "url": "https://www.fool.com/coverage/better-buy/2026/11/14/american-express-vs-mastercard-which-financial-stock-is-a-better-buy-for-2027/"
+      },
+      {
         "titulo": "These 4 Travel Stocks Depend on Holiday Spending",
         "fuente": "Motley Fool",
         "fecha": "2026-11-13T21:41:00Z",
         "url": "https://www.fool.com/investing/2026/11/13/these-4-travel-stocks-depend-on-holiday-spending/"
-      },
-      {
-        "titulo": "Hyatt's Midscale Pipeline Tops 150: Can New Markets Drive Growth?",
-        "fuente": "Zacks",
-        "fecha": "2026-11-13T15:43:00Z",
-        "url": "https://finance.yahoo.com/real-estate/articles/hyatts-midscale-pipeline-tops-150-154300653.html"
-      },
-      {
-        "titulo": "What Could Surprise Carnival Stock Investors On The Upside?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-11T19:41:11Z",
-        "url": "https://www.trefis.com/stock/ccl/articles/624311/what-could-surprise-carnival-stock-investors-on-the-upside/2026-11-11"
-      },
-      {
-        "titulo": "Marriott’s Dividend Yields 0.7%. Its $4.8 Billion Cash Return Plan Changes the Math",
-        "fuente": "24/7 Wall St.",
-        "fecha": "2026-11-10T17:47:11Z",
-        "url": "https://247wallst.com/investing/2026/11/10/marriotts-dividend-yields-0-7-its-4-8-billion-cash-return-plan-changes-the-math/"
-      },
-      {
-        "titulo": "Robots and surge pricing won't save fast food: Robert Irvine",
-        "fuente": "Yahoo Finance Video",
-        "fecha": "2026-11-09T12:00:00Z",
-        "url": "https://finance.yahoo.com/video/robots-surge-pricing-wont-save-120000821.html"
       }
     ],
     "HLT": [
+      {
+        "titulo": "What Would Unrest In Europe Do To Airbnb Stock?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-16T16:46:44Z",
+        "url": "https://www.trefis.com/stock/abnb/articles/625250/what-would-unrest-in-europe-do-to-airbnb-stock/2026-11-16"
+      },
       {
         "titulo": "Hyatt's Midscale Pipeline Tops 150: Can New Markets Drive Growth?",
         "fuente": "Zacks",
@@ -64,44 +70,38 @@
         "fuente": "Yahoo Finance Video",
         "fecha": "2026-11-06T16:30:00Z",
         "url": "https://finance.yahoo.com/video/ceos-think-midterm-election-results-163000622.html"
-      },
-      {
-        "titulo": "How Long Should You Wait For Carnival Stock To Recover?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-06T14:19:36Z",
-        "url": "https://www.trefis.com/stock/ccl/articles/623328/how-long-should-you-wait-for-carnival-stock-to-recover/2026-11-06"
       }
     ],
     "H": [
+      {
+        "titulo": "Macro Concerns Over Travel Budgets Hurt Hyatt Hotels Corporation (H) in Q3",
+        "fuente": "Insider Monkey",
+        "fecha": "2026-11-16T18:16:55Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/macro-concerns-over-travel-budgets-181655060.html"
+      },
+      {
+        "titulo": "World of Hyatt partnerships: American out, Delta in",
+        "fuente": "Yahoo Personal Finance",
+        "fecha": "2026-11-16T17:56:30Z",
+        "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/world-of-hyatt-partnerships-american-out-delta-in-175630273.html"
+      },
+      {
+        "titulo": "What Would Unrest In Europe Do To Airbnb Stock?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-16T16:46:44Z",
+        "url": "https://www.trefis.com/stock/abnb/articles/625250/what-would-unrest-in-europe-do-to-airbnb-stock/2026-11-16"
+      },
+      {
+        "titulo": "DFW Airport buys Hyatt Regency for $194M",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-16T15:03:11Z",
+        "url": "https://www.hoteldive.com/news/dfw-airport-buys-hyatt-regency-for-194m/874739/"
+      },
       {
         "titulo": "Hyatt's Midscale Pipeline Tops 150: Can New Markets Drive Growth?",
         "fuente": "Zacks",
         "fecha": "2026-11-13T15:43:00Z",
         "url": "https://finance.yahoo.com/real-estate/articles/hyatts-midscale-pipeline-tops-150-154300653.html"
-      },
-      {
-        "titulo": "Lodging Lowdown: Hyatt opens lifestyle JdV hotel in Pacific Northwest",
-        "fuente": "Hotel Dive",
-        "fecha": "2026-11-13T14:39:46Z",
-        "url": "https://www.hoteldive.com/news/hyatt-opens-lifestyle-jdv-hotel-pnw-aihg-names-execs/874611/"
-      },
-      {
-        "titulo": "Loyalty members seek rewards of all sizes",
-        "fuente": "CX Dive",
-        "fecha": "2026-11-13T12:00:00Z",
-        "url": "https://www.customerexperiencedive.com/news/loyalty-members-seek-rewards-of-all-sizes/874568/"
-      },
-      {
-        "titulo": "Tesla fund makes surprise Microsoft bet, keeps Nvidia stake",
-        "fuente": "GuruFocus.com",
-        "fecha": "2026-11-12T17:59:04Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-fund-makes-surprise-microsoft-175904923.html"
-      },
-      {
-        "titulo": "How Has Booking Holdings' Story Changed?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-12T15:13:00Z",
-        "url": "https://www.trefis.com/stock/bkng/articles/624762/how-has-booking-holdings-story-changed/2026-11-12"
       }
     ],
     "IHG": [
