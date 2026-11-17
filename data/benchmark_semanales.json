@@ -1,11 +1,6 @@
 [
   {
     "ticker": "POSADASA.MX",
-    "semana": "2025-11-10",
-    "cierre": 27.1793
-  },
-  {
-    "ticker": "POSADASA.MX",
     "semana": "2025-11-17",
     "cierre": 27.1793
   },
@@ -263,11 +258,6 @@
     "ticker": "POSADASA.MX",
     "semana": "2026-11-09",
     "cierre": 27.0
-  },
-  {
-    "ticker": "HCITY.MX",
-    "semana": "2025-11-10",
-    "cierre": 6.3
   },
   {
     "ticker": "HCITY.MX",
@@ -530,9 +520,9 @@
     "cierre": 5.89
   },
   {
-    "ticker": "FINN13.MX",
-    "semana": "2025-11-10",
-    "cierre": 4.3719
+    "ticker": "HCITY.MX",
+    "semana": "2026-11-16",
+    "cierre": 6.0
   },
   {
     "ticker": "FINN13.MX",
@@ -795,9 +785,9 @@
     "cierre": 4.76
   },
   {
-    "ticker": "CIDMEGA.MX",
-    "semana": "2025-11-10",
-    "cierre": 24.4
+    "ticker": "FINN13.MX",
+    "semana": "2026-11-16",
+    "cierre": 4.76
   },
   {
     "ticker": "CIDMEGA.MX",
@@ -1061,11 +1051,6 @@
   },
   {
     "ticker": "HOTEL.MX",
-    "semana": "2025-11-10",
-    "cierre": 3.6116
-  },
-  {
-    "ticker": "HOTEL.MX",
     "semana": "2025-11-17",
     "cierre": 3.6116
   },
@@ -1325,9 +1310,9 @@
     "cierre": 5.03
   },
   {
-    "ticker": "FIHO12.MX",
-    "semana": "2025-11-10",
-    "cierre": 7.7187
+    "ticker": "HOTEL.MX",
+    "semana": "2026-11-16",
+    "cierre": 5.0
   },
   {
     "ticker": "FIHO12.MX",
@@ -1590,9 +1575,9 @@
     "cierre": 7.56
   },
   {
-    "ticker": "RLHA.MX",
-    "semana": "2025-11-10",
-    "cierre": 16.75
+    "ticker": "FIHO12.MX",
+    "semana": "2026-11-16",
+    "cierre": 7.56
   },
   {
     "ticker": "RLHA.MX",
@@ -1862,7 +1847,7 @@
   {
     "ticker": "MAR",
     "semana": "2025-11-24",
-    "cierre": 302.9873
+    "cierre": 302.9872
   },
   {
     "ticker": "MAR",
@@ -1887,7 +1872,7 @@
   {
     "ticker": "MAR",
     "semana": "2025-12-29",
-    "cierre": 311.5562
+    "cierre": 311.5563
   },
   {
     "ticker": "MAR",
@@ -1922,7 +1907,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-02-16",
-    "cierre": 345.8721
+    "cierre": 345.872
   },
   {
     "ticker": "MAR",
@@ -1942,7 +1927,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-03-16",
-    "cierre": 318.4828
+    "cierre": 318.4829
   },
   {
     "ticker": "MAR",
@@ -2117,7 +2102,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-11-16",
-    "cierre": 425.7
+    "cierre": 422.74
   },
   {
     "ticker": "HLT",
@@ -2382,7 +2367,7 @@
   {
     "ticker": "HLT",
     "semana": "2026-11-16",
-    "cierre": 373.83
+    "cierre": 370.53
   },
   {
     "ticker": "H",
@@ -2647,7 +2632,7 @@
   {
     "ticker": "H",
     "semana": "2026-11-16",
-    "cierre": 190.58
+    "cierre": 190.0
   },
   {
     "ticker": "IHG",
@@ -2912,7 +2897,7 @@
   {
     "ticker": "IHG",
     "semana": "2026-11-16",
-    "cierre": 180.85
+    "cierre": 178.74
   },
   {
     "ticker": "AC.PA",
@@ -3173,6 +3158,11 @@
     "ticker": "AC.PA",
     "semana": "2026-11-09",
     "cierre": 51.72
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-11-16",
+    "cierre": 52.52
   },
   {
     "ticker": "CHH",
@@ -3437,12 +3427,7 @@
   {
     "ticker": "CHH",
     "semana": "2026-11-16",
-    "cierre": 120.95
-  },
-  {
-    "ticker": "EURUSD=X",
-    "semana": "2025-11-10",
-    "cierre": 1.1629
+    "cierre": 120.22
   },
   {
     "ticker": "EURUSD=X",
@@ -3707,6 +3692,6 @@
   {
     "ticker": "EURUSD=X",
     "semana": "2026-11-16",
-    "cierre": 1.1002
+    "cierre": 1.0997
   }
 ]

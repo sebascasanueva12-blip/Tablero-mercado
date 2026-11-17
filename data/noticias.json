@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T23:16:59.464527+00:00",
+  "actualizado": "2026-11-17T23:23:58.454475+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -9,6 +9,24 @@
     "FIHO12.MX": [],
     "RLHA.MX": [],
     "MAR": [
+      {
+        "titulo": "TPG sells Miami Beach hotel for $81M as South Florida hotel sales massively outperform rest of country",
+        "fuente": "The Real Deal",
+        "fecha": "2026-11-17T19:00:00Z",
+        "url": "https://finance.yahoo.com/real-estate/articles/tpg-sells-miami-beach-hotel-190000140.html"
+      },
+      {
+        "titulo": "Marriott leads hotel stocks on quality and momentum",
+        "fuente": "Investing.com",
+        "fecha": "2026-11-17T16:06:16Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/marriott-leads-hotel-stocks-quality-160616088.html"
+      },
+      {
+        "titulo": "Should You Buy And Hold Airbnb Stock Now?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-17T14:13:43Z",
+        "url": "https://www.trefis.com/stock/abnb/articles/625708/should-you-buy-and-hold-airbnb-stock-now/2026-11-17"
+      },
       {
         "titulo": "US Hotel Rates Forecast to Rise 1.6% in 2027, Below Inflation",
         "fuente": "CRE Daily",
@@ -20,27 +38,15 @@
         "fuente": "Trefis",
         "fecha": "2026-11-16T16:46:44Z",
         "url": "https://www.trefis.com/stock/abnb/articles/625250/what-would-unrest-in-europe-do-to-airbnb-stock/2026-11-16"
-      },
-      {
-        "titulo": "Here's How Much a $1000 Investment in Marriott International Made 10 Years Ago Would Be Worth Today",
-        "fuente": "Zacks",
-        "fecha": "2026-11-16T12:30:02Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-marriott-123002335.html"
-      },
-      {
-        "titulo": "American Express vs. Mastercard: Which Financial Stock Is a Better Buy for 2027?",
-        "fuente": "Motley Fool",
-        "fecha": "2026-11-14T20:32:01Z",
-        "url": "https://www.fool.com/coverage/better-buy/2026/11/14/american-express-vs-mastercard-which-financial-stock-is-a-better-buy-for-2027/"
-      },
-      {
-        "titulo": "These 4 Travel Stocks Depend on Holiday Spending",
-        "fuente": "Motley Fool",
-        "fecha": "2026-11-13T21:41:00Z",
-        "url": "https://www.fool.com/investing/2026/11/13/these-4-travel-stocks-depend-on-holiday-spending/"
       }
     ],
     "HLT": [
+      {
+        "titulo": "Should You Buy And Hold Airbnb Stock Now?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-17T14:13:43Z",
+        "url": "https://www.trefis.com/stock/abnb/articles/625708/should-you-buy-and-hold-airbnb-stock-now/2026-11-17"
+      },
       {
         "titulo": "What Would Unrest In Europe Do To Airbnb Stock?",
         "fuente": "Trefis",
@@ -64,15 +70,21 @@
         "fuente": "24/7 Wall St.",
         "fecha": "2026-11-10T17:47:11Z",
         "url": "https://247wallst.com/investing/2026/11/10/marriotts-dividend-yields-0-7-its-4-8-billion-cash-return-plan-changes-the-math/"
-      },
-      {
-        "titulo": "What these CEOs think about the midterm election results",
-        "fuente": "Yahoo Finance Video",
-        "fecha": "2026-11-06T16:30:00Z",
-        "url": "https://finance.yahoo.com/video/ceos-think-midterm-election-results-163000622.html"
       }
     ],
     "H": [
+      {
+        "titulo": "Hyatt and Delta's new partnership lets elites double-dip on points and miles",
+        "fuente": "Yahoo Personal Finance",
+        "fecha": "2026-11-17T19:35:19Z",
+        "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/hyatt-and-deltas-new-partnership-lets-elites-double-dip-on-points-and-miles-193519599.html"
+      },
+      {
+        "titulo": "Should You Buy And Hold Airbnb Stock Now?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-17T14:13:43Z",
+        "url": "https://www.trefis.com/stock/abnb/articles/625708/should-you-buy-and-hold-airbnb-stock-now/2026-11-17"
+      },
       {
         "titulo": "Macro Concerns Over Travel Budgets Hurt Hyatt Hotels Corporation (H) in Q3",
         "fuente": "Insider Monkey",
@@ -90,18 +102,6 @@
         "fuente": "Trefis",
         "fecha": "2026-11-16T16:46:44Z",
         "url": "https://www.trefis.com/stock/abnb/articles/625250/what-would-unrest-in-europe-do-to-airbnb-stock/2026-11-16"
-      },
-      {
-        "titulo": "DFW Airport buys Hyatt Regency for $194M",
-        "fuente": "Hotel Dive",
-        "fecha": "2026-11-16T15:03:11Z",
-        "url": "https://www.hoteldive.com/news/dfw-airport-buys-hyatt-regency-for-194m/874739/"
-      },
-      {
-        "titulo": "Hyatt's Midscale Pipeline Tops 150: Can New Markets Drive Growth?",
-        "fuente": "Zacks",
-        "fecha": "2026-11-13T15:43:00Z",
-        "url": "https://finance.yahoo.com/real-estate/articles/hyatts-midscale-pipeline-tops-150-154300653.html"
       }
     ],
     "IHG": [
