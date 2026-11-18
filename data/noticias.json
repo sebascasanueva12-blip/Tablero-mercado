@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T23:23:58.454475+00:00",
+  "actualizado": "2026-11-18T23:23:30.252765+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -9,6 +9,12 @@
     "FIHO12.MX": [],
     "RLHA.MX": [],
     "MAR": [
+      {
+        "titulo": "Invesco S&P 500 Equal Weight (RSP) Buys $0.7 Million More PTC on Nov. 16",
+        "fuente": "GuruFocus.com",
+        "fecha": "2026-11-18T11:05:24Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110524501.html"
+      },
       {
         "titulo": "TPG sells Miami Beach hotel for $81M as South Florida hotel sales massively outperform rest of country",
         "fuente": "The Real Deal",
@@ -32,12 +38,6 @@
         "fuente": "CRE Daily",
         "fecha": "2026-11-16T17:33:21Z",
         "url": "https://www.credaily.com/briefs/us-hotel-rates-forecast-to-rise-1-6-in-2027-below-inflation/"
-      },
-      {
-        "titulo": "What Would Unrest In Europe Do To Airbnb Stock?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-16T16:46:44Z",
-        "url": "https://www.trefis.com/stock/abnb/articles/625250/what-would-unrest-in-europe-do-to-airbnb-stock/2026-11-16"
       }
     ],
     "HLT": [
@@ -74,6 +74,24 @@
     ],
     "H": [
       {
+        "titulo": "Should Booking Holdings Stock Investors Worry About Its Outlook?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-18T19:42:39Z",
+        "url": "https://www.trefis.com/stock/bkng/articles/626220/should-booking-holdings-stock-investors-worry-about-its-outlook/2026-11-18"
+      },
+      {
+        "titulo": "Hyatt Hotels (H) Tests Its Delta Tie Up Narrative While Valuation Stays In Focus",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-18T17:11:52Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hyatt-hotels-h-tests-delta-171152259.html"
+      },
+      {
+        "titulo": "Should Hyatt Hotels (H) Stock Watchers Care About Its New Loyalty Partnership?",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-18T16:14:51Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hyatt-hotels-h-stock-watchers-161451317.html"
+      },
+      {
         "titulo": "Hyatt and Delta's new partnership lets elites double-dip on points and miles",
         "fuente": "Yahoo Personal Finance",
         "fecha": "2026-11-17T19:35:19Z",
@@ -84,24 +102,6 @@
         "fuente": "Trefis",
         "fecha": "2026-11-17T14:13:43Z",
         "url": "https://www.trefis.com/stock/abnb/articles/625708/should-you-buy-and-hold-airbnb-stock-now/2026-11-17"
-      },
-      {
-        "titulo": "Macro Concerns Over Travel Budgets Hurt Hyatt Hotels Corporation (H) in Q3",
-        "fuente": "Insider Monkey",
-        "fecha": "2026-11-16T18:16:55Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/macro-concerns-over-travel-budgets-181655060.html"
-      },
-      {
-        "titulo": "World of Hyatt partnerships: American out, Delta in",
-        "fuente": "Yahoo Personal Finance",
-        "fecha": "2026-11-16T17:56:30Z",
-        "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/world-of-hyatt-partnerships-american-out-delta-in-175630273.html"
-      },
-      {
-        "titulo": "What Would Unrest In Europe Do To Airbnb Stock?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-16T16:46:44Z",
-        "url": "https://www.trefis.com/stock/abnb/articles/625250/what-would-unrest-in-europe-do-to-airbnb-stock/2026-11-16"
       }
     ],
     "IHG": [
@@ -138,6 +138,12 @@
     ],
     "AC.PA": [
       {
+        "titulo": "Accor to purchase Ennismore minority stakes for €1.6bn",
+        "fuente": "Hotel Management Network",
+        "fecha": "2026-11-18T09:26:48Z",
+        "url": "https://www.hotelmanagement-network.com/news/accor-to-purchase-ennismore-minority-stakes-for-e1-6bn/"
+      },
+      {
         "titulo": "Lodging Lowdown: Hyatt opens lifestyle JdV hotel in Pacific Northwest",
         "fuente": "Hotel Dive",
         "fecha": "2026-11-13T14:39:46Z",
@@ -160,12 +166,6 @@
         "fuente": "Hotel Management Network",
         "fecha": "2026-11-05T11:20:57Z",
         "url": "https://www.hotelmanagement-network.com/news/accor-signs-deal-for-novotel-resort-project-in-rajasthan/"
-      },
-      {
-        "titulo": "Accor selects IDeaS Optix for global hotel portfolio",
-        "fuente": "Hotel Management Network",
-        "fecha": "2026-10-30T10:43:05Z",
-        "url": "https://www.hotelmanagement-network.com/news/accor-selects-ideas-optix-for-global-hotel-portfolio/"
       }
     ],
     "CHH": [
