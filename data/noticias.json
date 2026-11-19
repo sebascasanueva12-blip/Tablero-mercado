@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T23:23:30.252765+00:00",
+  "actualizado": "2026-11-19T23:16:49.620697+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -10,69 +10,87 @@
     "RLHA.MX": [],
     "MAR": [
       {
-        "titulo": "Invesco S&P 500 Equal Weight (RSP) Buys $0.7 Million More PTC on Nov. 16",
-        "fuente": "GuruFocus.com",
-        "fecha": "2026-11-18T11:05:24Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110524501.html"
+        "titulo": "Hotel Stocks Marriott, Hilton, Hyatt Holding Up In Tough Stock Market",
+        "fuente": "Investor's Business Daily",
+        "fecha": "2026-11-19T16:59:43Z",
+        "url": "https://www.investors.com/research/ibd-industry-themes/marriott-stock-mar-hotel-stocks-travel-leisure-vacation-markets-investing/?src=A00220&yptr=yahoo"
       },
       {
-        "titulo": "TPG sells Miami Beach hotel for $81M as South Florida hotel sales massively outperform rest of country",
-        "fuente": "The Real Deal",
-        "fecha": "2026-11-17T19:00:00Z",
-        "url": "https://finance.yahoo.com/real-estate/articles/tpg-sells-miami-beach-hotel-190000140.html"
+        "titulo": "Marriott (MAR) Stock Fair Value Rises After Q3 Beat And Higher Guidance",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-19T16:12:25Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/marriott-mar-stock-fair-value-161225961.html"
       },
       {
-        "titulo": "Marriott leads hotel stocks on quality and momentum",
-        "fuente": "Investing.com",
-        "fecha": "2026-11-17T16:06:16Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/marriott-leads-hotel-stocks-quality-160616088.html"
+        "titulo": "Marriott International Stock: Analyst Estimates & Ratings",
+        "fuente": "Barchart",
+        "fecha": "2026-11-19T12:13:51Z",
+        "url": "https://www.barchart.com/story/news/8913471/marriott-international-stock-analyst-estimates-ratings"
       },
       {
-        "titulo": "Should You Buy And Hold Airbnb Stock Now?",
+        "titulo": "What Is Airbnb Building That Investors Should Watch?",
         "fuente": "Trefis",
-        "fecha": "2026-11-17T14:13:43Z",
-        "url": "https://www.trefis.com/stock/abnb/articles/625708/should-you-buy-and-hold-airbnb-stock-now/2026-11-17"
+        "fecha": "2026-11-19T11:47:16Z",
+        "url": "https://www.trefis.com/stock/abnb/articles/626779/what-is-airbnb-building-that-investors-should-watch/2026-11-19"
       },
       {
-        "titulo": "US Hotel Rates Forecast to Rise 1.6% in 2027, Below Inflation",
-        "fuente": "CRE Daily",
-        "fecha": "2026-11-16T17:33:21Z",
-        "url": "https://www.credaily.com/briefs/us-hotel-rates-forecast-to-rise-1-6-in-2027-below-inflation/"
+        "titulo": "What Will Move Carnival Stock Through Spring 2027?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-19T11:26:35Z",
+        "url": "https://www.trefis.com/stock/ccl/articles/626786/what-will-move-carnival-stock-through-spring-2027/2026-11-19"
       }
     ],
     "HLT": [
       {
+        "titulo": "Hotel Stocks Marriott, Hilton, Hyatt Holding Up In Tough Stock Market",
+        "fuente": "Investor's Business Daily",
+        "fecha": "2026-11-19T16:59:43Z",
+        "url": "https://www.investors.com/research/ibd-industry-themes/marriott-stock-mar-hotel-stocks-travel-leisure-vacation-markets-investing/?src=A00220&yptr=yahoo"
+      },
+      {
+        "titulo": "What Is Airbnb Building That Investors Should Watch?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-19T11:47:16Z",
+        "url": "https://www.trefis.com/stock/abnb/articles/626779/what-is-airbnb-building-that-investors-should-watch/2026-11-19"
+      },
+      {
+        "titulo": "What Will Move Carnival Stock Through Spring 2027?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-19T11:26:35Z",
+        "url": "https://www.trefis.com/stock/ccl/articles/626786/what-will-move-carnival-stock-through-spring-2027/2026-11-19"
+      },
+      {
+        "titulo": "5 Consumer Discretionary Plays Showing Strength During the Tech Sell-Off",
+        "fuente": "MarketBeat",
+        "fecha": "2026-11-18T16:00:00Z",
+        "url": "https://www.marketbeat.com/articles/5-consumer-discretionary-plays-showing-strength-during-the-tech-sell-off/?utm_source=yahoofinance&utm_medium=yahoofinance"
+      },
+      {
         "titulo": "Should You Buy And Hold Airbnb Stock Now?",
         "fuente": "Trefis",
         "fecha": "2026-11-17T14:13:43Z",
         "url": "https://www.trefis.com/stock/abnb/articles/625708/should-you-buy-and-hold-airbnb-stock-now/2026-11-17"
-      },
-      {
-        "titulo": "What Would Unrest In Europe Do To Airbnb Stock?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-16T16:46:44Z",
-        "url": "https://www.trefis.com/stock/abnb/articles/625250/what-would-unrest-in-europe-do-to-airbnb-stock/2026-11-16"
-      },
-      {
-        "titulo": "Hyatt's Midscale Pipeline Tops 150: Can New Markets Drive Growth?",
-        "fuente": "Zacks",
-        "fecha": "2026-11-13T15:43:00Z",
-        "url": "https://finance.yahoo.com/real-estate/articles/hyatts-midscale-pipeline-tops-150-154300653.html"
-      },
-      {
-        "titulo": "What Could Surprise Carnival Stock Investors On The Upside?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-11T19:41:11Z",
-        "url": "https://www.trefis.com/stock/ccl/articles/624311/what-could-surprise-carnival-stock-investors-on-the-upside/2026-11-11"
-      },
-      {
-        "titulo": "Marriott’s Dividend Yields 0.7%. Its $4.8 Billion Cash Return Plan Changes the Math",
-        "fuente": "24/7 Wall St.",
-        "fecha": "2026-11-10T17:47:11Z",
-        "url": "https://247wallst.com/investing/2026/11/10/marriotts-dividend-yields-0-7-its-4-8-billion-cash-return-plan-changes-the-math/"
       }
     ],
     "H": [
+      {
+        "titulo": "Hotel Stocks Marriott, Hilton, Hyatt Holding Up In Tough Stock Market",
+        "fuente": "Investor's Business Daily",
+        "fecha": "2026-11-19T16:59:43Z",
+        "url": "https://www.investors.com/research/ibd-industry-themes/marriott-stock-mar-hotel-stocks-travel-leisure-vacation-markets-investing/?src=A00220&yptr=yahoo"
+      },
+      {
+        "titulo": "What Is Airbnb Building That Investors Should Watch?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-19T11:47:16Z",
+        "url": "https://www.trefis.com/stock/abnb/articles/626779/what-is-airbnb-building-that-investors-should-watch/2026-11-19"
+      },
+      {
+        "titulo": "Can Booking Holdings Stock Rally 50% After This Dip?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-19T11:00:32Z",
+        "url": "https://www.trefis.com/stock/bkng/articles/626681/can-booking-holdings-stock-rally-50-after-this-dip/2026-11-19"
+      },
       {
         "titulo": "Should Booking Holdings Stock Investors Worry About Its Outlook?",
         "fuente": "Trefis",
@@ -84,27 +102,21 @@
         "fuente": "Simply Wall St.",
         "fecha": "2026-11-18T17:11:52Z",
         "url": "https://finance.yahoo.com/markets/stocks/articles/hyatt-hotels-h-tests-delta-171152259.html"
-      },
-      {
-        "titulo": "Should Hyatt Hotels (H) Stock Watchers Care About Its New Loyalty Partnership?",
-        "fuente": "Simply Wall St.",
-        "fecha": "2026-11-18T16:14:51Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hyatt-hotels-h-stock-watchers-161451317.html"
-      },
-      {
-        "titulo": "Hyatt and Delta's new partnership lets elites double-dip on points and miles",
-        "fuente": "Yahoo Personal Finance",
-        "fecha": "2026-11-17T19:35:19Z",
-        "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/hyatt-and-deltas-new-partnership-lets-elites-double-dip-on-points-and-miles-193519599.html"
-      },
-      {
-        "titulo": "Should You Buy And Hold Airbnb Stock Now?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-17T14:13:43Z",
-        "url": "https://www.trefis.com/stock/abnb/articles/625708/should-you-buy-and-hold-airbnb-stock-now/2026-11-17"
       }
     ],
     "IHG": [
+      {
+        "titulo": "Hotel Stocks Marriott, Hilton, Hyatt Holding Up In Tough Stock Market",
+        "fuente": "Investor's Business Daily",
+        "fecha": "2026-11-19T16:59:43Z",
+        "url": "https://www.investors.com/research/ibd-industry-themes/marriott-stock-mar-hotel-stocks-travel-leisure-vacation-markets-investing/?src=A00220&yptr=yahoo"
+      },
+      {
+        "titulo": "IHG expands Spanish portfolio with three Holiday Inn Express signings",
+        "fuente": "Hotel Management Network",
+        "fecha": "2026-11-19T09:07:57Z",
+        "url": "https://www.hotelmanagement-network.com/news/ihg-spanish-holiday-inn-express-portfolio/"
+      },
       {
         "titulo": "IHG signs two Holiday Inn hotels in regional Australia",
         "fuente": "Hotel Management Network",
@@ -122,21 +134,15 @@
         "fuente": "MT Newswires",
         "fecha": "2026-11-02T16:16:34Z",
         "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161634036.html"
-      },
-      {
-        "titulo": "IHG signs deal to launch Garner brand in Uzbekistan",
-        "fuente": "Hotel Management Network",
-        "fecha": "2026-10-30T10:12:01Z",
-        "url": "https://www.hotelmanagement-network.com/news/ihg-garner-brand-in-uzbekistan/"
-      },
-      {
-        "titulo": "IHG signs 90-room Holiday Inn Express hotel in Iceland",
-        "fuente": "Hotel Management Network",
-        "fecha": "2026-10-28T11:13:49Z",
-        "url": "https://www.hotelmanagement-network.com/news/ihg-signs-90-room-holiday-inn-express/"
       }
     ],
     "AC.PA": [
+      {
+        "titulo": "Morgan Stanley cuts Accor on debt concerns and reduced buyback room",
+        "fuente": "Investing.com",
+        "fecha": "2026-11-19T11:02:32Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-accor-debt-110232606.html"
+      },
       {
         "titulo": "Accor to purchase Ennismore minority stakes for €1.6bn",
         "fuente": "Hotel Management Network",
@@ -160,12 +166,6 @@
         "fuente": "Simply Wall St.",
         "fecha": "2026-11-08T20:10:49Z",
         "url": "https://finance.yahoo.com/markets/stocks/articles/accor-enxtpa-ac-stock-may-201049743.html"
-      },
-      {
-        "titulo": "Accor signs deal for Novotel resort project in Rajasthan",
-        "fuente": "Hotel Management Network",
-        "fecha": "2026-11-05T11:20:57Z",
-        "url": "https://www.hotelmanagement-network.com/news/accor-signs-deal-for-novotel-resort-project-in-rajasthan/"
       }
     ],
     "CHH": [

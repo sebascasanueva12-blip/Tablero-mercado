@@ -527,7 +527,7 @@
   {
     "ticker": "HCITY.MX",
     "semana": "2026-11-16",
-    "cierre": 6.03
+    "cierre": 6.04
   },
   {
     "ticker": "FINN13.MX",
@@ -792,7 +792,7 @@
   {
     "ticker": "FINN13.MX",
     "semana": "2026-11-16",
-    "cierre": 4.72
+    "cierre": 4.71
   },
   {
     "ticker": "CIDMEGA.MX",
@@ -1322,7 +1322,7 @@
   {
     "ticker": "HOTEL.MX",
     "semana": "2026-11-16",
-    "cierre": 5.06
+    "cierre": 5.04
   },
   {
     "ticker": "FIHO12.MX",
@@ -1587,7 +1587,7 @@
   {
     "ticker": "FIHO12.MX",
     "semana": "2026-11-16",
-    "cierre": 7.54
+    "cierre": 7.53
   },
   {
     "ticker": "RLHA.MX",
@@ -1887,7 +1887,7 @@
   {
     "ticker": "MAR",
     "semana": "2025-12-29",
-    "cierre": 311.5563
+    "cierre": 311.5562
   },
   {
     "ticker": "MAR",
@@ -1917,7 +1917,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-02-09",
-    "cierre": 351.7968
+    "cierre": 351.7969
   },
   {
     "ticker": "MAR",
@@ -1942,7 +1942,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-03-16",
-    "cierre": 318.4829
+    "cierre": 318.4828
   },
   {
     "ticker": "MAR",
@@ -2117,7 +2117,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-11-16",
-    "cierre": 425.9
+    "cierre": 414.04
   },
   {
     "ticker": "HLT",
@@ -2147,7 +2147,7 @@
   {
     "ticker": "HLT",
     "semana": "2025-12-22",
-    "cierre": 293.0717
+    "cierre": 293.0718
   },
   {
     "ticker": "HLT",
@@ -2382,7 +2382,7 @@
   {
     "ticker": "HLT",
     "semana": "2026-11-16",
-    "cierre": 373.03
+    "cierre": 362.3
   },
   {
     "ticker": "H",
@@ -2647,7 +2647,7 @@
   {
     "ticker": "H",
     "semana": "2026-11-16",
-    "cierre": 193.74
+    "cierre": 186.45
   },
   {
     "ticker": "IHG",
@@ -2912,7 +2912,7 @@
   {
     "ticker": "IHG",
     "semana": "2026-11-16",
-    "cierre": 178.76
+    "cierre": 174.13
   },
   {
     "ticker": "AC.PA",
@@ -3177,7 +3177,7 @@
   {
     "ticker": "AC.PA",
     "semana": "2026-11-16",
-    "cierre": 50.3
+    "cierre": 48.73
   },
   {
     "ticker": "CHH",
@@ -3442,7 +3442,7 @@
   {
     "ticker": "CHH",
     "semana": "2026-11-16",
-    "cierre": 124.46
+    "cierre": 120.05
   },
   {
     "ticker": "EURUSD=X",
@@ -3707,6 +3707,6 @@
   {
     "ticker": "EURUSD=X",
     "semana": "2026-11-16",
-    "cierre": 1.0976
+    "cierre": 1.0973
   }
 ]
