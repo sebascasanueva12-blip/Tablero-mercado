@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T23:16:49.620697+00:00",
+  "actualizado": "2026-11-20T23:19:33.219285+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -9,6 +9,24 @@
     "FIHO12.MX": [],
     "RLHA.MX": [],
     "MAR": [
+      {
+        "titulo": "Major La Quinta, Best Western hotel operator files for Chapter 11 bankruptcy",
+        "fuente": "TheStreet",
+        "fecha": "2026-11-20T17:17:00Z",
+        "url": "https://www.thestreet.com/travel/magnolia-hospitality-group-behind-more-than-30-hotels-chapter-11-bankruptcy"
+      },
+      {
+        "titulo": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-20T14:28:10Z",
+        "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/"
+      },
+      {
+        "titulo": "Marriott drops 25% off hotel stays for loyal members, but there’s a catch",
+        "fuente": "TheStreet",
+        "fecha": "2026-11-20T02:37:00Z",
+        "url": "https://www.thestreet.com/travel/marriott-discount-25-off-hotel-stays-for-members-but-theres-a-catch"
+      },
       {
         "titulo": "Hotel Stocks Marriott, Hilton, Hyatt Holding Up In Tough Stock Market",
         "fuente": "Investor's Business Daily",
@@ -20,24 +38,6 @@
         "fuente": "Simply Wall St.",
         "fecha": "2026-11-19T16:12:25Z",
         "url": "https://finance.yahoo.com/markets/stocks/articles/marriott-mar-stock-fair-value-161225961.html"
-      },
-      {
-        "titulo": "Marriott International Stock: Analyst Estimates & Ratings",
-        "fuente": "Barchart",
-        "fecha": "2026-11-19T12:13:51Z",
-        "url": "https://www.barchart.com/story/news/8913471/marriott-international-stock-analyst-estimates-ratings"
-      },
-      {
-        "titulo": "What Is Airbnb Building That Investors Should Watch?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-19T11:47:16Z",
-        "url": "https://www.trefis.com/stock/abnb/articles/626779/what-is-airbnb-building-that-investors-should-watch/2026-11-19"
-      },
-      {
-        "titulo": "What Will Move Carnival Stock Through Spring 2027?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-19T11:26:35Z",
-        "url": "https://www.trefis.com/stock/ccl/articles/626786/what-will-move-carnival-stock-through-spring-2027/2026-11-19"
       }
     ],
     "HLT": [
@@ -74,6 +74,24 @@
     ],
     "H": [
       {
+        "titulo": "PepsiCo (PEP) Lands Hyatt Deal On A Fair Value Debate",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-20T20:14:01Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-lands-hyatt-deal-201401098.html"
+      },
+      {
+        "titulo": "Can Booking Holdings Stock Jump 40%?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-20T18:07:26Z",
+        "url": "https://www.trefis.com/stock/bkng/articles/627219/can-booking-holdings-stock-jump-40-2/2026-11-20"
+      },
+      {
+        "titulo": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-20T14:28:10Z",
+        "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/"
+      },
+      {
         "titulo": "Hotel Stocks Marriott, Hilton, Hyatt Holding Up In Tough Stock Market",
         "fuente": "Investor's Business Daily",
         "fecha": "2026-11-19T16:59:43Z",
@@ -84,27 +102,15 @@
         "fuente": "Trefis",
         "fecha": "2026-11-19T11:47:16Z",
         "url": "https://www.trefis.com/stock/abnb/articles/626779/what-is-airbnb-building-that-investors-should-watch/2026-11-19"
-      },
-      {
-        "titulo": "Can Booking Holdings Stock Rally 50% After This Dip?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-19T11:00:32Z",
-        "url": "https://www.trefis.com/stock/bkng/articles/626681/can-booking-holdings-stock-rally-50-after-this-dip/2026-11-19"
-      },
-      {
-        "titulo": "Should Booking Holdings Stock Investors Worry About Its Outlook?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-18T19:42:39Z",
-        "url": "https://www.trefis.com/stock/bkng/articles/626220/should-booking-holdings-stock-investors-worry-about-its-outlook/2026-11-18"
-      },
-      {
-        "titulo": "Hyatt Hotels (H) Tests Its Delta Tie Up Narrative While Valuation Stays In Focus",
-        "fuente": "Simply Wall St.",
-        "fecha": "2026-11-18T17:11:52Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hyatt-hotels-h-tests-delta-171152259.html"
       }
     ],
     "IHG": [
+      {
+        "titulo": "The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal.",
+        "fuente": "The Wall Street Journal",
+        "fecha": "2026-11-20T12:57:00Z",
+        "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-ai-firms-are-hooked-on-nvidia-chips-now-comes-the-withdrawal-57391e23?siteid=yhoof2&yptr=yahoo"
+      },
       {
         "titulo": "Hotel Stocks Marriott, Hilton, Hyatt Holding Up In Tough Stock Market",
         "fuente": "Investor's Business Daily",
@@ -128,15 +134,15 @@
         "fuente": "Hotel Management Network",
         "fecha": "2026-11-03T14:24:04Z",
         "url": "https://www.hotelmanagement-network.com/news/ihg-expands-kimpton-brand-into-qatar-with-doha-opening/"
-      },
-      {
-        "titulo": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
-        "fuente": "MT Newswires",
-        "fecha": "2026-11-02T16:16:34Z",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-161634036.html"
       }
     ],
     "AC.PA": [
+      {
+        "titulo": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-20T14:28:10Z",
+        "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/"
+      },
       {
         "titulo": "Morgan Stanley cuts Accor on debt concerns and reduced buyback room",
         "fuente": "Investing.com",
@@ -160,15 +166,15 @@
         "fuente": "Hotel Dive",
         "fecha": "2026-11-10T15:21:56Z",
         "url": "https://www.hoteldive.com/news/accor-hard-rock-enter-partnership-loyalty-distribution/874251/"
-      },
-      {
-        "titulo": "Accor (ENXTPA:AC) Stock May Be 37% Undervalued On Hotel Collection Expansion",
-        "fuente": "Simply Wall St.",
-        "fecha": "2026-11-08T20:10:49Z",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/accor-enxtpa-ac-stock-may-201049743.html"
       }
     ],
     "CHH": [
+      {
+        "titulo": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-20T14:28:10Z",
+        "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/"
+      },
       {
         "titulo": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
         "fuente": "Hotel Dive",
@@ -192,12 +198,6 @@
         "fuente": "GuruFocus.com",
         "fecha": "2026-11-02T23:03:36Z",
         "url": "https://finance.yahoo.com/real-estate/articles/choice-hotels-international-inc-chh-230336795.html"
-      },
-      {
-        "titulo": "Choice Hotels International, Inc. Q3 2026 Earnings Call Summary",
-        "fuente": "Moby",
-        "fecha": "2026-11-02T21:50:29Z",
-        "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-choice-hotels-international-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss"
       }
     ]
   }
