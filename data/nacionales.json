@@ -1,9 +1,9 @@
 {
-  "actualizado": "2026-11-20T23:19:33.219285+00:00",
+  "actualizado": "2026-11-23T23:25:27.800134+00:00",
   "emisoras": [
     {
       "ticker": "RLHA.MX",
-      "fecha": "2026-11-19",
+      "fecha": "2026-11-20",
       "precio": 15.46,
       "variacion_pct": 0.0,
       "volumen": 0.0,
@@ -18,12 +18,12 @@
     },
     {
       "ticker": "FIHO12.MX",
-      "fecha": "2026-11-20",
-      "precio": 7.45,
-      "variacion_pct": -1.0624,
-      "volumen": 55631.0,
-      "volumen_relativo_30d": 1.1869,
-      "cap_mercado": 5879497347.2231,
+      "fecha": "2026-11-23",
+      "precio": 7.53,
+      "variacion_pct": 0.9383,
+      "volumen": 25817.0,
+      "volumen_relativo_30d": 0.5538,
+      "cap_mercado": 5942633206.9296,
       "trimestre": {
         "periodo": "2025-06-30",
         "ingresos": 1370088000.0,
@@ -33,11 +33,11 @@
     },
     {
       "ticker": "HOTEL.MX",
-      "fecha": "2026-11-20",
+      "fecha": "2026-11-23",
       "precio": 5.04,
       "variacion_pct": 0.0,
-      "volumen": 5354.0,
-      "volumen_relativo_30d": 0.3295,
+      "volumen": 10004.0,
+      "volumen_relativo_30d": 0.6035,
       "cap_mercado": 3592415139.2896,
       "trimestre": {
         "periodo": "2026-03-31",
@@ -48,12 +48,12 @@
     },
     {
       "ticker": "FINN13.MX",
-      "fecha": "2026-11-20",
-      "precio": 4.66,
-      "variacion_pct": -1.0616,
-      "volumen": 23407.0,
-      "volumen_relativo_30d": 0.1468,
-      "cap_mercado": 3379943478.1065,
+      "fecha": "2026-11-23",
+      "precio": 4.65,
+      "variacion_pct": -0.2146,
+      "volumen": 16998.0,
+      "volumen_relativo_30d": 0.1065,
+      "cap_mercado": 3372690560.1209,
       "trimestre": {
         "periodo": "2026-09-30",
         "ingresos": 674333000.0,
@@ -63,12 +63,12 @@
     },
     {
       "ticker": "HCITY.MX",
-      "fecha": "2026-11-20",
-      "precio": 5.95,
-      "variacion_pct": -1.6529,
-      "volumen": 433586.0,
-      "volumen_relativo_30d": 2.2566,
-      "cap_mercado": 2453347130.2548,
+      "fecha": "2026-11-23",
+      "precio": 6.0,
+      "variacion_pct": 0.0,
+      "volumen": 51861.0,
+      "volumen_relativo_30d": 0.2695,
+      "cap_mercado": 2473963572.0,
       "trimestre": null
     },
     {
@@ -78,7 +78,7 @@
       "variacion_pct": 0.0,
       "volumen": 4550.0,
       "volumen_relativo_30d": 11.5336,
-      "cap_mercado": 1201948318.6789,
+      "cap_mercado": 1201948373.56,
       "trimestre": {
         "periodo": "2026-06-30",
         "ingresos": 698718000.0,
@@ -88,7 +88,7 @@
     },
     {
       "ticker": "POSADASA.MX",
-      "fecha": "2026-11-19",
+      "fecha": "2026-11-20",
       "precio": 27.0,
       "variacion_pct": 0.0,
       "volumen": 0.0,
