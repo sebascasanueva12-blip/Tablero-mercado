@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T23:25:27.800134+00:00",
+  "actualizado": "2026-11-24T23:23:16.748356+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -34,10 +34,10 @@
         "url": "https://www.trefis.com/stock/mar/articles/627178/is-marriott-stock-worth-41x-earnings-next-to-booking/2026-11-20"
       },
       {
-        "titulo": "Major La Quinta, Best Western hotel operator files for Chapter 11 bankruptcy",
-        "fuente": "TheStreet",
-        "fecha": "2026-11-20T17:17:00Z",
-        "url": "https://www.thestreet.com/travel/magnolia-hospitality-group-behind-more-than-30-hotels-chapter-11-bankruptcy"
+        "titulo": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
+        "fuente": "Hotel Dive",
+        "fecha": "2026-11-20T14:28:10Z",
+        "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/"
       }
     ],
     "HLT": [
@@ -74,6 +74,12 @@
     ],
     "H": [
       {
+        "titulo": "Does PepsiCo (PEP) Change Its Long Term Case With Its Efficiency Reset?",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-24T22:15:30Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/does-pepsico-pep-change-long-221530250.html"
+      },
+      {
         "titulo": "Two points-booking mistakes I made with EVA Air and World of Hyatt — and the lesson",
         "fuente": "Yahoo Personal Finance",
         "fecha": "2026-11-23T18:46:49Z",
@@ -96,15 +102,15 @@
         "fuente": "Trefis",
         "fecha": "2026-11-20T18:07:26Z",
         "url": "https://www.trefis.com/stock/bkng/articles/627219/can-booking-holdings-stock-jump-40-2/2026-11-20"
-      },
-      {
-        "titulo": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
-        "fuente": "Hotel Dive",
-        "fecha": "2026-11-20T14:28:10Z",
-        "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/"
       }
     ],
     "IHG": [
+      {
+        "titulo": "InterContinental Hotels Group (LSE:IHG) Stock Looks Overvalued On Cash Flow",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-24T02:15:02Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-hotels-group-lse-ihg-021502624.html"
+      },
       {
         "titulo": "The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal.",
         "fuente": "The Wall Street Journal",
@@ -128,15 +134,15 @@
         "fuente": "Hotel Management Network",
         "fecha": "2026-11-04T15:06:04Z",
         "url": "https://www.hotelmanagement-network.com/news/ihg-signs-two-holiday-inn-hotels/"
-      },
-      {
-        "titulo": "IHG expands Kimpton brand into Qatar with Doha opening",
-        "fuente": "Hotel Management Network",
-        "fecha": "2026-11-03T14:24:04Z",
-        "url": "https://www.hotelmanagement-network.com/news/ihg-expands-kimpton-brand-into-qatar-with-doha-opening/"
       }
     ],
     "AC.PA": [
+      {
+        "titulo": "Accor (ENXTPA:AC) Stock May Be A Bargain Despite Its €1.6b Ennismore Deal",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-24T17:16:55Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/accor-enxtpa-ac-stock-may-171655532.html"
+      },
       {
         "titulo": "Accor to add nine New Zealand properties via CP Hotels deal",
         "fuente": "Hotel Management Network",
@@ -160,12 +166,6 @@
         "fuente": "Hotel Management Network",
         "fecha": "2026-11-18T09:26:48Z",
         "url": "https://www.hotelmanagement-network.com/news/accor-to-purchase-ennismore-minority-stakes-for-e1-6bn/"
-      },
-      {
-        "titulo": "Lodging Lowdown: Hyatt opens lifestyle JdV hotel in Pacific Northwest",
-        "fuente": "Hotel Dive",
-        "fecha": "2026-11-13T14:39:46Z",
-        "url": "https://www.hoteldive.com/news/hyatt-opens-lifestyle-jdv-hotel-pnw-aihg-names-execs/874611/"
       }
     ],
     "CHH": [

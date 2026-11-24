@@ -260,6 +260,11 @@
     "cierre": 27.0
   },
   {
+    "ticker": "POSADASA.MX",
+    "semana": "2026-11-23",
+    "cierre": 27.0
+  },
+  {
     "ticker": "HCITY.MX",
     "semana": "2025-11-24",
     "cierre": 6.65
@@ -787,7 +792,7 @@
   {
     "ticker": "FINN13.MX",
     "semana": "2026-11-23",
-    "cierre": 4.65
+    "cierre": 4.6
   },
   {
     "ticker": "CIDMEGA.MX",
@@ -1047,6 +1052,11 @@
   {
     "ticker": "CIDMEGA.MX",
     "semana": "2026-11-16",
+    "cierre": 18.38
+  },
+  {
+    "ticker": "CIDMEGA.MX",
+    "semana": "2026-11-23",
     "cierre": 18.38
   },
   {
@@ -1577,7 +1587,7 @@
   {
     "ticker": "FIHO12.MX",
     "semana": "2026-11-23",
-    "cierre": 7.53
+    "cierre": 7.51
   },
   {
     "ticker": "RLHA.MX",
@@ -1840,6 +1850,11 @@
     "cierre": 15.46
   },
   {
+    "ticker": "RLHA.MX",
+    "semana": "2026-11-23",
+    "cierre": 15.46
+  },
+  {
     "ticker": "MAR",
     "semana": "2025-11-24",
     "cierre": 302.4679
@@ -1877,7 +1892,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-01-12",
-    "cierre": 323.3972
+    "cierre": 323.3973
   },
   {
     "ticker": "MAR",
@@ -1897,7 +1912,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-02-09",
-    "cierre": 351.1939
+    "cierre": 351.1938
   },
   {
     "ticker": "MAR",
@@ -1952,7 +1967,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-04-27",
-    "cierre": 352.9462
+    "cierre": 352.9463
   },
   {
     "ticker": "MAR",
@@ -2102,7 +2117,7 @@
   {
     "ticker": "MAR",
     "semana": "2026-11-23",
-    "cierre": 415.63
+    "cierre": 416.23
   },
   {
     "ticker": "HLT",
@@ -2157,7 +2172,7 @@
   {
     "ticker": "HLT",
     "semana": "2026-02-02",
-    "cierre": 313.9426
+    "cierre": 313.9427
   },
   {
     "ticker": "HLT",
@@ -2167,7 +2182,7 @@
   {
     "ticker": "HLT",
     "semana": "2026-02-16",
-    "cierre": 315.5204
+    "cierre": 315.5205
   },
   {
     "ticker": "HLT",
@@ -2367,272 +2382,272 @@
   {
     "ticker": "HLT",
     "semana": "2026-11-23",
-    "cierre": 364.94
+    "cierre": 364.32
   },
   {
     "ticker": "H",
     "semana": "2025-11-24",
-    "cierre": 163.9659
+    "cierre": 163.8307
   },
   {
     "ticker": "H",
     "semana": "2025-12-01",
-    "cierre": 155.5975
+    "cierre": 155.4693
   },
   {
     "ticker": "H",
     "semana": "2025-12-08",
-    "cierre": 161.1332
+    "cierre": 161.0004
   },
   {
     "ticker": "H",
     "semana": "2025-12-15",
-    "cierre": 164.1454
+    "cierre": 164.0101
   },
   {
     "ticker": "H",
     "semana": "2025-12-22",
-    "cierre": 165.2625
+    "cierre": 165.1263
   },
   {
     "ticker": "H",
     "semana": "2025-12-29",
-    "cierre": 165.1428
+    "cierre": 165.0067
   },
   {
     "ticker": "H",
     "semana": "2026-01-05",
-    "cierre": 167.7561
+    "cierre": 167.6178
   },
   {
     "ticker": "H",
     "semana": "2026-01-12",
-    "cierre": 167.5067
+    "cierre": 167.3687
   },
   {
     "ticker": "H",
     "semana": "2026-01-19",
-    "cierre": 163.3574
+    "cierre": 163.2228
   },
   {
     "ticker": "H",
     "semana": "2026-01-26",
-    "cierre": 155.9665
+    "cierre": 155.838
   },
   {
     "ticker": "H",
     "semana": "2026-02-02",
-    "cierre": 162.4498
+    "cierre": 162.3159
   },
   {
     "ticker": "H",
     "semana": "2026-02-09",
-    "cierre": 164.9633
+    "cierre": 164.8273
   },
   {
     "ticker": "H",
     "semana": "2026-02-16",
-    "cierre": 171.3966
+    "cierre": 171.2554
   },
   {
     "ticker": "H",
     "semana": "2026-02-23",
-    "cierre": 161.0833
+    "cierre": 160.9506
   },
   {
     "ticker": "H",
     "semana": "2026-03-02",
-    "cierre": 149.3727
+    "cierre": 149.2496
   },
   {
     "ticker": "H",
     "semana": "2026-03-09",
-    "cierre": 139.0698
+    "cierre": 138.9552
   },
   {
     "ticker": "H",
     "semana": "2026-03-16",
-    "cierre": 141.8751
+    "cierre": 141.7582
   },
   {
     "ticker": "H",
     "semana": "2026-03-23",
-    "cierre": 142.0748
+    "cierre": 141.9577
   },
   {
     "ticker": "H",
     "semana": "2026-03-30",
-    "cierre": 143.2329
+    "cierre": 143.1148
   },
   {
     "ticker": "H",
     "semana": "2026-04-06",
-    "cierre": 154.9934
+    "cierre": 154.8657
   },
   {
     "ticker": "H",
     "semana": "2026-04-13",
-    "cierre": 172.1949
+    "cierre": 172.053
   },
   {
     "ticker": "H",
     "semana": "2026-04-20",
-    "cierre": 163.9885
+    "cierre": 163.8533
   },
   {
     "ticker": "H",
     "semana": "2026-04-27",
-    "cierre": 163.4594
+    "cierre": 163.3247
   },
   {
     "ticker": "H",
     "semana": "2026-05-04",
-    "cierre": 167.323
+    "cierre": 167.1851
   },
   {
     "ticker": "H",
     "semana": "2026-05-11",
-    "cierre": 168.501
+    "cierre": 168.3622
   },
   {
     "ticker": "H",
     "semana": "2026-05-18",
-    "cierre": 173.8622
+    "cierre": 173.7189
   },
   {
     "ticker": "H",
     "semana": "2026-05-25",
-    "cierre": 181.2068
+    "cierre": 181.0574
   },
   {
     "ticker": "H",
     "semana": "2026-06-01",
-    "cierre": 192.8969
+    "cierre": 192.7379
   },
   {
     "ticker": "H",
     "semana": "2026-06-08",
-    "cierre": 199.1916
+    "cierre": 199.0274
   },
   {
     "ticker": "H",
     "semana": "2026-06-15",
-    "cierre": 201.9193
+    "cierre": 201.7529
   },
   {
     "ticker": "H",
     "semana": "2026-06-22",
-    "cierre": 197.513
+    "cierre": 197.3502
   },
   {
     "ticker": "H",
     "semana": "2026-06-29",
-    "cierre": 191.1184
+    "cierre": 190.9609
   },
   {
     "ticker": "H",
     "semana": "2026-07-06",
-    "cierre": 190.9785
+    "cierre": 190.8211
   },
   {
     "ticker": "H",
     "semana": "2026-07-13",
-    "cierre": 190.489
+    "cierre": 190.332
   },
   {
     "ticker": "H",
     "semana": "2026-07-20",
-    "cierre": 186.9719
+    "cierre": 186.8178
   },
   {
     "ticker": "H",
     "semana": "2026-07-27",
-    "cierre": 173.913
+    "cierre": 173.7696
   },
   {
     "ticker": "H",
     "semana": "2026-08-03",
-    "cierre": 177.5599
+    "cierre": 177.4136
   },
   {
     "ticker": "H",
     "semana": "2026-08-10",
-    "cierre": 180.8271
+    "cierre": 180.6781
   },
   {
     "ticker": "H",
     "semana": "2026-08-17",
-    "cierre": 180.5174
+    "cierre": 180.3686
   },
   {
     "ticker": "H",
     "semana": "2026-08-24",
-    "cierre": 172.25
+    "cierre": 172.108
   },
   {
     "ticker": "H",
     "semana": "2026-08-31",
-    "cierre": 165.85
+    "cierre": 165.7133
   },
   {
     "ticker": "H",
     "semana": "2026-09-07",
-    "cierre": 163.07
+    "cierre": 162.9356
   },
   {
     "ticker": "H",
     "semana": "2026-09-14",
-    "cierre": 155.04
+    "cierre": 154.9122
   },
   {
     "ticker": "H",
     "semana": "2026-09-21",
-    "cierre": 158.48
+    "cierre": 158.3494
   },
   {
     "ticker": "H",
     "semana": "2026-09-28",
-    "cierre": 158.9
+    "cierre": 158.769
   },
   {
     "ticker": "H",
     "semana": "2026-10-05",
-    "cierre": 161.94
+    "cierre": 161.8065
   },
   {
     "ticker": "H",
     "semana": "2026-10-12",
-    "cierre": 169.13
+    "cierre": 168.9906
   },
   {
     "ticker": "H",
     "semana": "2026-10-19",
-    "cierre": 172.58
+    "cierre": 172.4378
   },
   {
     "ticker": "H",
     "semana": "2026-10-26",
-    "cierre": 180.57
+    "cierre": 180.4212
   },
   {
     "ticker": "H",
     "semana": "2026-11-02",
-    "cierre": 184.32
+    "cierre": 184.1681
   },
   {
     "ticker": "H",
     "semana": "2026-11-09",
-    "cierre": 187.7
+    "cierre": 187.5453
   },
   {
     "ticker": "H",
     "semana": "2026-11-16",
-    "cierre": 182.01
+    "cierre": 181.86
   },
   {
     "ticker": "H",
     "semana": "2026-11-23",
-    "cierre": 186.04
+    "cierre": 187.4
   },
   {
     "ticker": "IHG",
@@ -2897,7 +2912,7 @@
   {
     "ticker": "IHG",
     "semana": "2026-11-23",
-    "cierre": 176.1
+    "cierre": 175.44
   },
   {
     "ticker": "AC.PA",
@@ -3158,6 +3173,11 @@
     "ticker": "AC.PA",
     "semana": "2026-11-16",
     "cierre": 47.57
+  },
+  {
+    "ticker": "AC.PA",
+    "semana": "2026-11-23",
+    "cierre": 49.09
   },
   {
     "ticker": "CHH",
@@ -3422,12 +3442,7 @@
   {
     "ticker": "CHH",
     "semana": "2026-11-23",
-    "cierre": 120.56
-  },
-  {
-    "ticker": "EURUSD=X",
-    "semana": "2025-11-17",
-    "cierre": 1.1517
+    "cierre": 120.3
   },
   {
     "ticker": "EURUSD=X",
@@ -3692,6 +3707,6 @@
   {
     "ticker": "EURUSD=X",
     "semana": "2026-11-23",
-    "cierre": 1.0909
+    "cierre": 1.0966
   }
 ]
