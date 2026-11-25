@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T23:23:16.748356+00:00",
+  "actualizado": "2026-11-25T23:24:09.736952+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -42,6 +42,18 @@
     ],
     "HLT": [
       {
+        "titulo": "Does Room Expansion Change The Bull Case For Hilton Stock?",
+        "fuente": "Simply Wall St.",
+        "fecha": "2026-11-25T15:13:09Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/does-room-expansion-change-bull-151309221.html"
+      },
+      {
+        "titulo": "Why Is Everybody Paying A Premium For Hilton Stock?",
+        "fuente": "Trefis",
+        "fecha": "2026-11-25T11:00:14Z",
+        "url": "https://www.trefis.com/stock/hlt/articles/628735/why-is-everybody-paying-a-premium-for-hilton-stock-2/2026-11-25"
+      },
+      {
         "titulo": "Is Marriott Stock Worth 41x Earnings Next To Booking?",
         "fuente": "Trefis",
         "fecha": "2026-11-21T06:32:47Z",
@@ -58,18 +70,6 @@
         "fuente": "Trefis",
         "fecha": "2026-11-19T11:47:16Z",
         "url": "https://www.trefis.com/stock/abnb/articles/626779/what-is-airbnb-building-that-investors-should-watch/2026-11-19"
-      },
-      {
-        "titulo": "What Will Move Carnival Stock Through Spring 2027?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-19T11:26:35Z",
-        "url": "https://www.trefis.com/stock/ccl/articles/626786/what-will-move-carnival-stock-through-spring-2027/2026-11-19"
-      },
-      {
-        "titulo": "5 Consumer Discretionary Plays Showing Strength During the Tech Sell-Off",
-        "fuente": "MarketBeat",
-        "fecha": "2026-11-18T16:00:00Z",
-        "url": "https://www.marketbeat.com/articles/5-consumer-discretionary-plays-showing-strength-during-the-tech-sell-off/?utm_source=yahoofinance&utm_medium=yahoofinance"
       }
     ],
     "H": [
@@ -138,6 +138,12 @@
     ],
     "AC.PA": [
       {
+        "titulo": "GTT expands managed services agreement with Accor",
+        "fuente": "Hotel Management Network",
+        "fecha": "2026-11-25T11:19:45Z",
+        "url": "https://www.hotelmanagement-network.com/news/gtt-expands-managed-services-agreement-with-accor/"
+      },
+      {
         "titulo": "Accor (ENXTPA:AC) Stock May Be A Bargain Despite Its €1.6b Ennismore Deal",
         "fuente": "Simply Wall St.",
         "fecha": "2026-11-24T17:16:55Z",
@@ -160,12 +166,6 @@
         "fuente": "Investing.com",
         "fecha": "2026-11-19T11:02:32Z",
         "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-accor-debt-110232606.html"
-      },
-      {
-        "titulo": "Accor to purchase Ennismore minority stakes for €1.6bn",
-        "fuente": "Hotel Management Network",
-        "fecha": "2026-11-18T09:26:48Z",
-        "url": "https://www.hotelmanagement-network.com/news/accor-to-purchase-ennismore-minority-stakes-for-e1-6bn/"
       }
     ],
     "CHH": [
