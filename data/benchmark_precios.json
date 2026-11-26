@@ -1,27 +1,27 @@
 [
   {
     "ticker": "POSADASA.MX",
-    "precio": 27.0,
-    "min_52s": 27.0,
+    "precio": 26.0,
+    "min_52s": 26.0,
     "max_52s": 30.0,
     "mediana_52s": 28.1677,
-    "fecha": "2026-10-13"
+    "fecha": "2026-11-26"
   },
   {
     "ticker": "HCITY.MX",
-    "precio": 6.0,
+    "precio": 5.9,
     "min_52s": 5.35,
     "max_52s": 6.71,
-    "mediana_52s": 6.035,
-    "fecha": "2026-11-25"
+    "mediana_52s": 6.03,
+    "fecha": "2026-11-26"
   },
   {
     "ticker": "FINN13.MX",
-    "precio": 4.75,
+    "precio": 4.76,
     "min_52s": 4.3259,
     "max_52s": 5.3146,
-    "mediana_52s": 4.7459,
-    "fecha": "2026-11-25"
+    "mediana_52s": 4.7476,
+    "fecha": "2026-11-26"
   },
   {
     "ticker": "CIDMEGA.MX",
@@ -36,16 +36,16 @@
     "precio": 5.04,
     "min_52s": 3.6315,
     "max_52s": 5.35,
-    "mediana_52s": 4.6265,
+    "mediana_52s": 4.6364,
     "fecha": "2026-11-24"
   },
   {
     "ticker": "FIHO12.MX",
-    "precio": 7.39,
+    "precio": 7.45,
     "min_52s": 6.7691,
-    "max_52s": 7.7187,
+    "max_52s": 7.6633,
     "mediana_52s": 7.3932,
-    "fecha": "2026-11-25"
+    "fecha": "2026-11-26"
   },
   {
     "ticker": "RLHA.MX",
@@ -82,7 +82,7 @@
   {
     "ticker": "IHG",
     "precio": 175.44,
-    "min_52s": 127.2504,
+    "min_52s": 127.2503,
     "max_52s": 181.41,
     "mediana_52s": 153.4977,
     "fecha": "2026-11-25"
@@ -92,8 +92,8 @@
     "precio": null,
     "min_52s": 38.3661,
     "max_52s": 52.76,
-    "mediana_52s": 45.8063,
-    "fecha": "2026-11-25"
+    "mediana_52s": 45.84,
+    "fecha": "2026-11-26"
   },
   {
     "ticker": "CHH",
@@ -105,10 +105,10 @@
   },
   {
     "ticker": "EURUSD=X",
-    "precio": 1.0979,
+    "precio": 1.0973,
     "min_52s": 1.0908,
     "max_52s": 1.2018,
     "mediana_52s": 1.1603,
-    "fecha": "2026-11-25"
+    "fecha": "2026-11-26"
   }
 ]

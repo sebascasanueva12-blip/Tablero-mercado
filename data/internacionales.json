@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-11-25T23:24:09.736952+00:00",
+  "actualizado": "2026-11-26T23:27:33.687108+00:00",
   "emisoras": [
     {
       "ticker": "MAR",
       "fecha": "2026-11-25",
       "precio": 415.77,
       "variacion_pct": -0.1105,
-      "volumen": 1662612.0,
-      "volumen_relativo_30d": 0.9903,
+      "volumen": 1696000.0,
+      "volumen_relativo_30d": 1.0095,
       "cap_mercado": 107062600311.6622,
       "trimestre": {
         "periodo": "2026-09-30",
@@ -21,7 +21,7 @@
       "fecha": "2026-11-25",
       "precio": 366.2,
       "variacion_pct": 0.516,
-      "volumen": 1837784.0,
+      "volumen": 1837800.0,
       "volumen_relativo_30d": 0.9114,
       "cap_mercado": 81481097517.1176,
       "trimestre": {
@@ -36,9 +36,9 @@
       "fecha": "2026-11-25",
       "precio": 175.44,
       "variacion_pct": 0.0,
-      "volumen": 155501.0,
+      "volumen": 155500.0,
       "volumen_relativo_30d": 0.6075,
-      "cap_mercado": 25444242502.8796,
+      "cap_mercado": 25439505622.8137,
       "trimestre": null
     },
     {
@@ -46,7 +46,7 @@
       "fecha": "2026-11-25",
       "precio": 186.43,
       "variacion_pct": -0.5176,
-      "volumen": 716598.0,
+      "volumen": 716600.0,
       "volumen_relativo_30d": 0.9007,
       "cap_mercado": 17410713421.8306,
       "trimestre": {
@@ -58,12 +58,12 @@
     },
     {
       "ticker": "AC.PA",
-      "fecha": "2026-11-25",
+      "fecha": "2026-11-26",
       "precio": null,
       "variacion_pct": null,
-      "volumen": 542763.0,
-      "volumen_relativo_30d": 0.581,
-      "cap_mercado": 11001671940.96,
+      "volumen": 551167.0,
+      "volumen_relativo_30d": 0.592,
+      "cap_mercado": 11137831247.16,
       "trimestre": {
         "periodo": "2026-03-31",
         "ingresos": null,
@@ -76,8 +76,8 @@
       "fecha": "2026-11-25",
       "precio": 121.86,
       "variacion_pct": 1.2968,
-      "volumen": 490671.0,
-      "volumen_relativo_30d": 0.8435,
+      "volumen": 490700.0,
+      "volumen_relativo_30d": 0.8436,
       "cap_mercado": 5423811442.7259,
       "trimestre": {
         "periodo": "2026-09-30",

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T23:24:09.736952+00:00",
+  "actualizado": "2026-11-26T23:27:33.687108+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -42,6 +42,12 @@
     ],
     "HLT": [
       {
+        "titulo": "Hilton Worldwide (HLT) Up 4.7% Since Last Earnings Report: Can It Continue?",
+        "fuente": "Zacks",
+        "fecha": "2026-11-26T15:30:12Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hilton-worldwide-hlt-4-7-153012917.html"
+      },
+      {
         "titulo": "Does Room Expansion Change The Bull Case For Hilton Stock?",
         "fuente": "Simply Wall St.",
         "fecha": "2026-11-25T15:13:09Z",
@@ -64,15 +70,15 @@
         "fuente": "Investor's Business Daily",
         "fecha": "2026-11-19T16:59:43Z",
         "url": "https://www.investors.com/research/ibd-industry-themes/marriott-stock-mar-hotel-stocks-travel-leisure-vacation-markets-investing/?src=A00220&yptr=yahoo"
-      },
-      {
-        "titulo": "What Is Airbnb Building That Investors Should Watch?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-19T11:47:16Z",
-        "url": "https://www.trefis.com/stock/abnb/articles/626779/what-is-airbnb-building-that-investors-should-watch/2026-11-19"
       }
     ],
     "H": [
+      {
+        "titulo": "Hyatt signs agreement with SIDG to develop hotel at Gold Coast",
+        "fuente": "Hotel Management Network",
+        "fecha": "2026-11-26T14:25:44Z",
+        "url": "https://www.hotelmanagement-network.com/news/hyatt-signs-agreement-with-sidg-to-develop-hotel-at-gold-coast/"
+      },
       {
         "titulo": "Does PepsiCo (PEP) Change Its Long Term Case With Its Efficiency Reset?",
         "fuente": "Simply Wall St.",
@@ -96,12 +102,6 @@
         "fuente": "Simply Wall St.",
         "fecha": "2026-11-20T20:14:01Z",
         "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-lands-hyatt-deal-201401098.html"
-      },
-      {
-        "titulo": "Can Booking Holdings Stock Jump 40%?",
-        "fuente": "Trefis",
-        "fecha": "2026-11-20T18:07:26Z",
-        "url": "https://www.trefis.com/stock/bkng/articles/627219/can-booking-holdings-stock-jump-40-2/2026-11-20"
       }
     ],
     "IHG": [
