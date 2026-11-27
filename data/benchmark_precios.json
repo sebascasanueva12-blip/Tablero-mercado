@@ -9,19 +9,19 @@
   },
   {
     "ticker": "HCITY.MX",
-    "precio": 5.9,
+    "precio": 6.1,
     "min_52s": 5.35,
     "max_52s": 6.71,
     "mediana_52s": 6.03,
-    "fecha": "2026-11-26"
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "FINN13.MX",
-    "precio": 4.76,
+    "precio": 4.77,
     "min_52s": 4.3259,
     "max_52s": 5.3146,
-    "mediana_52s": 4.7476,
-    "fecha": "2026-11-26"
+    "mediana_52s": 4.7497,
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "CIDMEGA.MX",
@@ -29,23 +29,23 @@
     "min_52s": 18.38,
     "max_52s": 25.0,
     "mediana_52s": 19.5,
-    "fecha": "2026-11-25"
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "HOTEL.MX",
-    "precio": 5.04,
+    "precio": 5.1,
     "min_52s": 3.6315,
     "max_52s": 5.35,
-    "mediana_52s": 4.6364,
-    "fecha": "2026-11-24"
+    "mediana_52s": 4.6563,
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "FIHO12.MX",
-    "precio": 7.45,
+    "precio": 7.46,
     "min_52s": 6.7691,
-    "max_52s": 7.6633,
+    "max_52s": 7.6448,
     "mediana_52s": 7.3932,
-    "fecha": "2026-11-26"
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "RLHA.MX",
@@ -57,58 +57,58 @@
   },
   {
     "ticker": "MAR",
-    "precio": 415.77,
-    "min_52s": 281.6775,
+    "precio": 421.01,
+    "min_52s": 281.6776,
     "max_52s": 428.4444,
-    "mediana_52s": 353.2544,
-    "fecha": "2026-11-25"
+    "mediana_52s": 353.2635,
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "HLT",
-    "precio": 366.2,
+    "precio": 369.94,
     "min_52s": 268.8755,
     "max_52s": 379.76,
-    "mediana_52s": 318.317,
-    "fecha": "2026-11-25"
+    "mediana_52s": 319.36,
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "H",
-    "precio": 186.43,
+    "precio": 187.87,
     "min_52s": 138.9552,
     "max_52s": 201.7529,
-    "mediana_52s": 167.0497,
-    "fecha": "2026-11-25"
+    "mediana_52s": 167.1552,
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "IHG",
-    "precio": 175.44,
+    "precio": 176.55,
     "min_52s": 127.2503,
     "max_52s": 181.41,
-    "mediana_52s": 153.4977,
-    "fecha": "2026-11-25"
+    "mediana_52s": 153.6869,
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "AC.PA",
     "precio": null,
     "min_52s": 38.3661,
     "max_52s": 52.76,
-    "mediana_52s": 45.84,
-    "fecha": "2026-11-26"
+    "mediana_52s": 45.85,
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "CHH",
-    "precio": 121.86,
+    "precio": 122.9,
     "min_52s": 83.4562,
     "max_52s": 124.46,
-    "mediana_52s": 106.4005,
-    "fecha": "2026-11-25"
+    "mediana_52s": 106.5508,
+    "fecha": "2026-11-27"
   },
   {
     "ticker": "EURUSD=X",
-    "precio": 1.0973,
+    "precio": 1.0939,
     "min_52s": 1.0908,
     "max_52s": 1.2018,
     "mediana_52s": 1.1603,
-    "fecha": "2026-11-26"
+    "fecha": "2026-11-27"
   }
 ]

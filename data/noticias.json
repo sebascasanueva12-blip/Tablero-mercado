@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T23:27:33.687108+00:00",
+  "actualizado": "2026-11-27T23:24:58.021183+00:00",
   "emisoras": {
     "POSADASA.MX": [],
     "HCITY.MX": [],
@@ -170,6 +170,12 @@
     ],
     "CHH": [
       {
+        "titulo": "Choice Hotels International CHH Detracts Amid Leadership Transition and Inflation Concerns",
+        "fuente": "Insider Monkey",
+        "fecha": "2026-11-27T16:16:23Z",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/choice-hotels-international-chh-detracts-161623238.html"
+      },
+      {
         "titulo": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
         "fuente": "Hotel Dive",
         "fecha": "2026-11-20T14:28:10Z",
@@ -192,12 +198,6 @@
         "fuente": "Simply Wall St.",
         "fecha": "2026-11-03T06:10:15Z",
         "url": "https://finance.yahoo.com/markets/stocks/articles/choice-hotels-international-chh-could-061015878.html"
-      },
-      {
-        "titulo": "Choice Hotels International Inc (CHH) (Q3 2026) Earnings Call Highlights: RevPAR Beats, ...",
-        "fuente": "GuruFocus.com",
-        "fecha": "2026-11-02T23:03:36Z",
-        "url": "https://finance.yahoo.com/real-estate/articles/choice-hotels-international-inc-chh-230336795.html"
       }
     ]
   }
